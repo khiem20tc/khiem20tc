@@ -1,5 +1,5 @@
 ### Hi 👋
-### 🔭 I am working as a Backend - Blockchain Engineer
+### 🔭 I am working as a Blockchain Architecture - Backend Engineer
 ### 🌱 I studied Computer Science at Ho Chi Minh City University of Technology (HCMUT - Bach Khoa)
 ### 👯 My program language: Javascript, TypeScript, Solidity, Python, C++...
 ### 🤔 I’m looking for help with Docker, Webpack...
