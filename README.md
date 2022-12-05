@@ -20,6 +20,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### My GitHub Stats 👉👈
+  <img align="center" src="https://github-readme-stats.sytungan.vercel.app/api?username=khiem20tc&show_icons=true&hide_border=true&theme=omni"/>
+<!-- Ref -->
+
+[website]: https://khiem20tc.github.io
+[linkedin]: https://www.linkedin.com/in/hkhiemne/
+
+
 ░░░░░░░░░▄░░░░░░░░░░░░░░▄░░░░<br />
 ░░░░░░░░▌▒█░░░░░░░░░░░▄▀▒▌░░░<br />
 ░░░░░░░░▌▒▒█░░░░░░░░▄▀▒▒▒▐░░░<br />
