@@ -1,12 +1,13 @@
-### Hi👋 I'm Khiem - @anhkolamgidauanhthe
+### Hi👋 I'm Khiem
+## @anhkolamgidauanhthe
 
-The man has the ambitious to create Software Products with high value for million users.
+The man has the ambitious to create Software Products with *high value* for **million users**.
 
-### 🔭 I am working as a Backend (NodeJS) Engineer - Blockchain Architect with over 2.5 years of experience.
-### 🌱 I come from Ho Chi Minh City University of Technology (HCMUT - Bach Khoa) - Computer Science major.
-### 👯 My programing language: Javascript, TypeScript, Solidity, Python, C++...
-### 💬 My keywords: NodeJS, NestJS, Microservices, Solidity, Ethereum, NFT, MongoDB, Redis, Docker, RabbitMQ, Layer2, Enterprise-blockchain...
-### 📫 How to reach me: github.com/khiem20tc
+* 🔭 I am working as a **Backend Engineer - Blockchain Architect** with *over 2.5 years of experience*.
+* 🌱 I come from *Ho Chi Minh City University of Technology (HCMUT - Bach Khoa)* - **Computer Science** major.
+* 👯 My programing language: Javascript, TypeScript, Solidity, Python, C++...
+* 💬 My keywords: NodeJS, NestJS, Microservices, Solidity, Ethereum, NFT, MongoDB, Redis, Docker, RabbitMQ, Layer2, Enterprise-blockchain...
+* 📫 How to reach me: github.com/khiem20tc
 <!--
 **khiem20tc/khiem20tc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
