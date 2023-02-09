@@ -42,14 +42,11 @@ Here are some ideas to get you started:
 [<img align="left" width="20px" src="https://www.svgrepo.com/show/331368/discord-v2.svg" />][discord]
 [<img align="left" width="20px" src="https://www.svgrepo.com/show/354443/telegram.svg" />][telegram]
 
-<br>
-
 [website]: https://khiem20tc.github.io
 [linkedin]: https://linkedin.com/in/hkhiemne
 [facebook]: https://facebook.com/hkhiemnee
 [discord]: https://facebook.com/hkneeeee
 [telegram]: https://t.me/hkneeeee
-
 
 ### Github stats 👉👈
 
@@ -58,7 +55,6 @@ Here are some ideas to get you started:
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=khiem20tc&show_icons=true&hide_border=true&theme=omni"/>
 
 <!-- Ref -->
-
 
 <br />
 ░░░░░░░░░▄░░░░░░░░░░░░░░▄░░░░<br />
