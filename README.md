@@ -1,7 +1,11 @@
-### Hi👋 I'm Khiem
-## @anhkolamgidauanhthe
+## Hi👋 I'm Khiem 
+aka **@anhkolamgidauanhthe**
 
-The man has the ambitious to create Software Products with *high value* for **million users**.
+```
+The man has the ambitious to create Software Products with high value for million users.
+```
+
+### My background
 
 * 🔭 I am working as a **Backend Engineer - Blockchain Architect** with *over 2.5 years of experience*.
 * 🌱 I come from *Ho Chi Minh City University of Technology (HCMUT - Bach Khoa)* - **Computer Science** major.
@@ -23,8 +27,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### My GitHub Stats 👉👈
-  <img align="center" src="https://github-readme-stats.sytungan.vercel.app/api?username=khiem20tc&show_icons=true&hide_border=true&theme=omni"/>
+### Personal projects
+
+> [NPM package author] https://www.npmjs.com/package/eth-blockchain-helper 
+
+> [Vietnamese blogger] https://viblo.asia/u/Anhkolamgidauanhthe 
+
+
+### My stats 👉👈
+
+<img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khiem20tc&layout=compact&show_icons=true&hide_border=true&theme=omni" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=khiem20tc&show_icons=true&hide_border=true&theme=omni"/>
+
 <!-- Ref -->
 
 
