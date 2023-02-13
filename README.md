@@ -2,7 +2,7 @@
 aka **@anhkolamgidauanhthe**
 
 ```
-TThe man has the ambition to create Software Products with high value for millions of users. 
+The man has the ambition to create Software Products with high value for millions of users. 
 ```
 
 ### Background  💪
