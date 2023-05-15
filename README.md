@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 > [NPM package author] https://www.npmjs.com/package/eth-blockchain-helper 
 
-> [Vietnamese blogger] https://viblo.asia/u/Anhkolamgidauanhthe 
+> [Personal blog] https://anhkolamgidauanhthe.me
 
 ### Contact me 📧
 
