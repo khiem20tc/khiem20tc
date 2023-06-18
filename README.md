@@ -9,7 +9,7 @@ The man has the ambition to create Software Products with high value for million
 
 ### Background  💪
 
-* 🔭 I am working as a **Backend Engineer - Blockchain Architect** with *over 2.5 years of experience*.
+* 🔭 I am working as a **Backend Engineer - Blockchain Architect** with *3 years of experience*.
 * 🌱 I come from *Ho Chi Minh City University of Technology (HCMUT - Bach Khoa)* - **Computer Science** major.
 * 👯 My programing language: Javascript, TypeScript, Solidity, Python, C++...
 * 💬 My keywords: NodeJS, NestJS, Microservices, Solidity, Ethereum, NFT, MongoDB, Redis, Docker, RabbitMQ, Layer2, Enterprise-blockchain...
