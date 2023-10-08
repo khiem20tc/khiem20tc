@@ -1,4 +1,7 @@
 name: My lastest blogs from anhkolamgidauanhthe.me
+on:
+  # Schedule weekly updates
+  schedule: [{cron: "0 0 * * 0"}]
 uses: lowlighter/metrics@latest
 with:
   filename: metrics.plugin.rss.svg
