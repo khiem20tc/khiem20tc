@@ -1,0 +1,9 @@
+name: My lastest blogs from anhkolamgidauanhthe.me
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.plugin.rss.svg
+  token: NOT_NEEDED
+  base: ""
+  plugin_rss: yes
+  plugin_rss_source: https://www.anhkolamgidauanhthe.me/rss
+  plugin_rss_limit: 5
