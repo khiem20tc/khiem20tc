@@ -61,8 +61,9 @@ Here are some ideas to get you started:
 
 <!-- Ref -->
 
-### My lastes blogs
-![Metrics](/metrics.plugin.rss.svg)
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <br />
 ░░░░░░░░░▄░░░░░░░░░░░░░░▄░░░░<br />
