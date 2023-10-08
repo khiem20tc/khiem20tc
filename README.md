@@ -9,10 +9,12 @@ The man has the ambition to create Software Products with high value for million
 
 ### Background  💪
 
-* 🔭 I am working as a **Backend Engineer - Blockchain Architect** with *3 years of experience*.
+* 🔭 I am working as a **Backend - Blockchain Engineer** with *3 years of experience*.
 * 🌱 I come from *Ho Chi Minh City University of Technology (HCMUT - Bach Khoa)* - **Computer Science** major.
-* 👯 My programing language: Javascript, TypeScript, Solidity, Python, C++...
-* 💬 My keywords: NodeJS, NestJS, Microservices, Solidity, Ethereum, NFT, MongoDB, Redis, Docker, RabbitMQ, Layer2, Enterprise-blockchain...
+* 👯 My programming language: Javascript, TypeScript, Solidity, Golang, Python, C++...
+* 💬 My framework: Express, Fastify, Nest, tRPC, Fiber,... 
+* 🤔 My database: MongoDB, Redis, Postgres,... 
+* 👯 My domain: Ethereum, NFT, Layer2, Enterprise-blockchain,...
 
 <!--
 **khiem20tc/khiem20tc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -44,11 +46,11 @@ Here are some ideas to get you started:
 [<img align="left" width="20px" src="https://www.svgrepo.com/show/331368/discord-v2.svg" />][discord]
 [<img align="left" width="20px" src="https://www.svgrepo.com/show/354443/telegram.svg" />][telegram]
 
-[website]: https://khiem20tc.github.io
-[linkedin]: https://linkedin.com/in/hkhiemne
-[facebook]: https://facebook.com/hkhiemnee
-[discord]: https://facebook.com/hkneeeee
-[telegram]: https://t.me/hkneeeee
+[Website]: https://khiem20tc.github.io
+[Linkedin]: https://linkedin.com/in/hkhiemne
+[Facebook]: https://facebook.com/hkhiemnee
+[Discord]: https://facebook.com/hkneeeee
+[Telegram]: https://t.me/hkneeeee
 
 ### Github stats 👉👈
 
