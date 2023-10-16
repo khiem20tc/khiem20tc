@@ -9,7 +9,7 @@ The man has the ambition to create Software Products with high value for million
 
 ### Background  💪
 
-* 🔭 I am working as a **Backend - Blockchain Engineer** with *3 years of experience*.
+* 🔭 I am working as a **Backend - Blockchain Engineer** since 2020.
 * 🌱 I come from *Ho Chi Minh City University of Technology (HCMUT - Bach Khoa)* - **Computer Science** major.
 * 👯 My programming language: Javascript, TypeScript, Solidity, Golang, Python, C++...
 * 💬 My framework: Express, Fastify, Nest, tRPC, Fiber,... 
