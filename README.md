@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 
 ### Github stats 👉👈
 
-<a href="https://anhkolamgidauanhthe.me"><img height="170px" src="https://github-readme-stats.vercel.app/api?username=khiem20tc&show_icons=true&hide_title=true&hide_border=true&theme=omni" /><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khiem20tc&show_icons=true&layout=compact&langs_count=6&hide_title=true&hide_border=true&theme=omni" /></a>
+<a href="https://anhkolamgidauanhthe.me"><img height="150px" src="https://github-readme-stats.vercel.app/api?username=khiem20tc&show_icons=true&hide_title=true&hide_border=true&theme=omni" /><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khiem20tc&show_icons=true&layout=compact&langs_count=6&hide_title=true&hide_border=true&theme=omni" /></a>
 
 
 <picture>
