@@ -55,15 +55,14 @@ Here are some ideas to get you started:
 
 ### Github stats 👉👈
 
-<img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khiem20tc&layout=compact&show_icons=true&hide_border=true&theme=omni" />
+<a href="https://anhkolamgidauanhthe.me"><img height="170px" src="https://github-readme-stats.vercel.app/api?username=khiem20tc&show_icons=true&hide_title=true&hide_border=true&theme=omni" /><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khiem20tc&show_icons=true&layout=compact&langs_count=6&hide_title=true&hide_border=true&theme=omni" /></a>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khiem20tc/khiem20tc/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/khiem20tc/khiem20tc/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/khiem20tc/khiem20tc/output/github-contribution-grid-snake.svg">
 </picture>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=khiem20tc&show_icons=true&hide_border=true&theme=omni"/>
 
 <!-- Ref -->
 
