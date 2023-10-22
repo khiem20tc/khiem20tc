@@ -68,11 +68,11 @@ Here are some ideas to get you started:
 
 # My recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Khác nhau giữa Webhook, WebSocket, Pub/Sub và API Polling](http://anhkolamgidauanhthe.me/blog/communicate-protocols)
 - [Git Rebase vs Git Merge](http://anhkolamgidauanhthe.me/blog/git-rebase)
 - [Tản mạn về Dopamine](http://anhkolamgidauanhthe.me/blog/dopamine)
 - [Bản làng 8 không - DakNong Vietnam](http://anhkolamgidauanhthe.me/blog/8-nothing-village)
 - [Tản mạn về Blockchain](http://anhkolamgidauanhthe.me/blog/blockchain)
-- [Hướng dẫn chọn mua laptop cũ cho Dev](http://anhkolamgidauanhthe.me/blog/laptop)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
