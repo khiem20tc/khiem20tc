@@ -67,6 +67,10 @@ Here are some ideas to get you started:
 
 <!-- Ref -->
 
+### Leetcode Stats 👉👈
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/khiem20tc?ext=activity)
+
 # My recent blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Khác nhau giữa Webhook, WebSocket, Pub/Sub và API Polling](http://anhkolamgidauanhthe.me/blog/communicate-protocols)
