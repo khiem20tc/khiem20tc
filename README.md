@@ -73,7 +73,7 @@ Here are some ideas to get you started:
 
 # My recent blog posts
 <!-- BLOG-POST-LIST:START -->
-- [2023 Year in Review](http://anhkolamgidauanhthe.me/blog/review-2023)
+- [2023 year in review](http://anhkolamgidauanhthe.me/blog/review-2023)
 - [Khác nhau giữa Webhook, WebSocket, Pub/Sub và API Polling](http://anhkolamgidauanhthe.me/blog/communicate-protocols)
 - [Git Rebase vs Git Merge](http://anhkolamgidauanhthe.me/blog/git-rebase)
 - [Tản mạn về Dopamine](http://anhkolamgidauanhthe.me/blog/dopamine)
