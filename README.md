@@ -73,11 +73,11 @@ Here are some ideas to get you started:
 
 # My recent blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Nhìn lại một năm mất mát - chấp nhận và buông bỏ](http://anhkolamgidauanhthe.me/blog/give-up)
+- [Nhìn lại một năm 2023 mất mát - chấp nhận và buông bỏ](http://anhkolamgidauanhthe.me/blog/give-up)
 - [2023 year in review](http://anhkolamgidauanhthe.me/blog/review-2023)
-- [Khác nhau giữa Webhook, WebSocket, Pub/Sub và API Polling](http://anhkolamgidauanhthe.me/blog/communicate-protocols)
-- [Git Rebase vs Git Merge](http://anhkolamgidauanhthe.me/blog/git-rebase)
-- [Tản mạn về Dopamine](http://anhkolamgidauanhthe.me/blog/dopamine)
+- [Elasticsearch là gì?](http://anhkolamgidauanhthe.me/blog/elastic-search)
+- [Bài toán scalable trên WebSocket servers](http://anhkolamgidauanhthe.me/blog/scalable-ws)
+- [WebSocket là gì?](http://anhkolamgidauanhthe.me/blog/ws)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
