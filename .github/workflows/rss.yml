@@ -19,4 +19,4 @@ jobs:
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://anhkolamgidauanhthe.me/rss"
+          feed_list: "https://anhkolamgidauanhthe.blog/rss"
