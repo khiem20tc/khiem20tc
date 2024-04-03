@@ -1,7 +1,7 @@
 ## Hi👋 I'm Khiem 
 aka **@anhkolamgidauanhthe**
 
-[Anhkolamgidauanhthe.me](https://anhkolamgidauanhthe.me)
+[Anhkolamgidauanhthe.blog](https://anhkolamgidauanhthe.blog)
 
 ```
 The man has the ambition to create Software Products with high value for millions of users. 
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 > [NPM package author] https://www.npmjs.com/package/eth-blockchain-helper 
 
-> [Personal blog] https://anhkolamgidauanhthe.me
+> [Personal blog] https://anhkolamgidauanhthe.blog
 
 ### Contact me 📧
 
@@ -48,15 +48,15 @@ Here are some ideas to get you started:
 [<img align="left" width="20px" src="https://www.svgrepo.com/show/331368/discord-v2.svg" />][discord]
 [<img align="left" width="20px" src="https://www.svgrepo.com/show/354443/telegram.svg" />][telegram]
 
-[Website]: https://anhkolamgidauanhthe.me
+[Website]: https://anhkolamgidauanhthe.blog
 [Linkedin]: https://linkedin.com/in/hkhiemne
 [Facebook]: https://facebook.com/hkhiemnee
 [Discord]: https://facebook.com/hkneeeee
-[Telegram]: https://t.me/hkneeeee
+[Telegram]: https://t.blog/hkneeeee
 
 ### Github stats 👉👈
 
-<a href="https://anhkolamgidauanhthe.me"><img height="150px" src="https://github-readme-stats.vercel.app/api?username=khiem20tc&show_icons=true&hide_title=true&hide_border=true&theme=omni" /><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khiem20tc&show_icons=true&layout=compact&langs_count=6&hide_title=true&hide_border=true&theme=omni" /></a>
+<a href="https://anhkolamgidauanhthe.blog"><img height="150px" src="https://github-readme-stats.vercel.app/api?username=khiem20tc&show_icons=true&hide_title=true&hide_border=true&theme=omni" /><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khiem20tc&show_icons=true&layout=compact&langs_count=6&hide_title=true&hide_border=true&theme=omni" /></a>
 
 
 <picture>
@@ -73,11 +73,11 @@ Here are some ideas to get you started:
 
 # My recent blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Nhìn lại một năm 2023 mất mát - chấp nhận và buông bỏ](http://anhkolamgidauanhthe.me/blog/give-up)
-- [2023 year in review](http://anhkolamgidauanhthe.me/blog/review-2023)
-- [Elasticsearch là gì?](http://anhkolamgidauanhthe.me/blog/elastic-search)
-- [Bài toán scalable trên WebSocket servers](http://anhkolamgidauanhthe.me/blog/scalable-ws)
-- [WebSocket là gì?](http://anhkolamgidauanhthe.me/blog/ws)
+- [Nhìn lại một năm 2023 mất mát - chấp nhận và buông bỏ](http://anhkolamgidauanhthe.blog/blog/give-up)
+- [2023 year in review](http://anhkolamgidauanhthe.blog/blog/review-2023)
+- [Elasticsearch là gì?](http://anhkolamgidauanhthe.blog/blog/elastic-search)
+- [Bài toán scalable trên WebSocket servers](http://anhkolamgidauanhthe.blog/blog/scalable-ws)
+- [WebSocket là gì?](http://anhkolamgidauanhthe.blog/blog/ws)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
