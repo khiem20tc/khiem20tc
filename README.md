@@ -73,11 +73,11 @@ Here are some ideas to get you started:
 
 # My recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [[Golang in real combat] - My favorite gist](http://anhkolamgidauanhthe.blog/blog/golang)
 - [Nhìn lại một năm 2023 mất mát - chấp nhận và buông bỏ](http://anhkolamgidauanhthe.blog/blog/give-up)
+- [Maybe you missed these 12 awesome Git commands](http://anhkolamgidauanhthe.blog/blog/git-commands)
 - [2023 year in review](http://anhkolamgidauanhthe.blog/blog/review-2023)
 - [Elasticsearch là gì?](http://anhkolamgidauanhthe.blog/blog/elastic-search)
-- [Bài toán scalable trên WebSocket servers](http://anhkolamgidauanhthe.blog/blog/scalable-ws)
-- [WebSocket là gì?](http://anhkolamgidauanhthe.blog/blog/ws)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
