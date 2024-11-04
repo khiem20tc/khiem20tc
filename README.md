@@ -1,7 +1,7 @@
 ## Hi👋 I'm Khiem 
-aka **@anhkolamgidauanhthe**
+aka **@kevinbkdev**
 
-[Anhkolamgidauanhthe.blog](https://anhkolamgidauanhthe.blog)
+[kevinbkdev.blog](https://kevinbkdev.blog)
 
 ```
 The man has the ambition to create Software Products with high value for millions of users. 
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 > [NPM package author] https://www.npmjs.com/package/eth-blockchain-helper 
 
-> [Personal blog] https://anhkolamgidauanhthe.blog
+> [Personal blog] https://kevinbkdev.blog
 
 ### Contact me 📧
 
@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 [<img align="left" width="20px" src="https://www.svgrepo.com/show/331368/discord-v2.svg" />][discord]
 [<img align="left" width="20px" src="https://www.svgrepo.com/show/354443/telegram.svg" />][telegram]
 
-[Website]: https://anhkolamgidauanhthe.blog
+[Website]: https://kevinbkdev.blog
 [Linkedin]: https://linkedin.com/in/hkhiemne
 [Facebook]: https://facebook.com/hkhiemnee
 [Discord]: https://facebook.com/hkneeeee
@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 
 ### Github stats 👉👈
 
-<a href="https://anhkolamgidauanhthe.blog"><img height="150px" src="https://github-readme-stats.vercel.app/api?username=khiem20tc&show_icons=true&hide_title=true&hide_border=true&theme=omni" /><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khiem20tc&show_icons=true&layout=compact&langs_count=6&hide_title=true&hide_border=true&theme=omni" /></a>
+<a href="https://kevinbkdev.blog"><img height="150px" src="https://github-readme-stats.vercel.app/api?username=khiem20tc&show_icons=true&hide_title=true&hide_border=true&theme=omni" /><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khiem20tc&show_icons=true&layout=compact&langs_count=6&hide_title=true&hide_border=true&theme=omni" /></a>
 
 
 <picture>
@@ -74,11 +74,11 @@ Here are some ideas to get you started:
 
 # My recent blog posts
 <!-- BLOG-POST-LIST:START -->
-- [[Golang in real combat] - My favorite gist](http://anhkolamgidauanhthe.blog/blog/golang)
-- [Nhìn lại một năm 2023 mất mát - chấp nhận và buông bỏ](http://anhkolamgidauanhthe.blog/blog/give-up)
-- [Maybe you missed these 12 awesome Git commands](http://anhkolamgidauanhthe.blog/blog/git-commands)
-- [2023 year in review](http://anhkolamgidauanhthe.blog/blog/review-2023)
-- [Elasticsearch là gì?](http://anhkolamgidauanhthe.blog/blog/elastic-search)
+- [[Golang in real combat] - My favorite gist](http://kevinbkdev.blog/blog/golang)
+- [Nhìn lại một năm 2023 mất mát - chấp nhận và buông bỏ](http://kevinbkdev.blog/blog/give-up)
+- [Maybe you missed these 12 awesome Git commands](http://kevinbkdev.blog/blog/git-commands)
+- [2023 year in review](http://kevinbkdev.blog/blog/review-2023)
+- [Elasticsearch là gì?](http://kevinbkdev.blog/blog/elastic-search)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
