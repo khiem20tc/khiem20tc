@@ -74,11 +74,11 @@ Here are some ideas to get you started:
 
 # My recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [2024 - Year in Review](http://kevinbkdev.blog/blog/review-2024)
 - [[MongoDB - phần 4] Thực chiến triển khai và cấu hình Sharding MongoDB](http://kevinbkdev.blog/blog/mongodb-setup-p4)
 - [[MongoDB - phần 3] Nguyên lý triển khai và cấu hình Sharding MongoDB](http://kevinbkdev.blog/blog/mongodb-setup-p3)
 - [[Golang in real combat] - My favorite gist](http://kevinbkdev.blog/blog/golang)
 - [Nhìn lại một năm 2023 mất mát - chấp nhận và buông bỏ](http://kevinbkdev.blog/blog/give-up)
-- [Maybe you missed these 12 awesome Git commands](http://kevinbkdev.blog/blog/git-commands)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
