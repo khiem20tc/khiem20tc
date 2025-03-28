@@ -50,10 +50,10 @@ Here are some ideas to get you started:
 [<img align="left" width="20px" src="https://www.svgrepo.com/show/354443/telegram.svg" />][telegram]
 
 [Website]: https://kevinbkdev.blog
-[Linkedin]: https://linkedin.com/in/hkhiemne
-[Facebook]: https://facebook.com/hkhiemnee
-[Discord]: https://facebook.com/hkneeeee
-[Telegram]: https://t.blog/hkneeeee
+[Linkedin]: https://linkedin.com/in/kevinbkdev
+[Facebook]: https://facebook.com/kevinbkdev
+[Discord]: https://discord.com/kevinbkdev
+[Telegram]: https://t.me/kevinbkdev
 
 ### Github stats 👉👈
 
