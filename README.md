@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Everyone has their down days. Don't take it out on innocent bystanders."
+"Visitors are like fish: As much as you might like them, after three days they start to smell."
 ```
 
 ### Background 💪
