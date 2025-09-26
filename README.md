@@ -79,7 +79,6 @@ Here are some ideas to get you started:
 # My recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [what crypto VCs actually want in founders &lpar;but won&#39;t tell you&rpar;](http://kevinbkdev.blog/blog/crypto-vc)
 - [Aligning Software Architecture with Business Models in 2025 — My Thoughts](http://kevinbkdev.blog/blog/architecture-2025)
 - [2024 - Year in Review](http://kevinbkdev.blog/blog/review-2024)
