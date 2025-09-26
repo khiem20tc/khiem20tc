@@ -1,23 +1,28 @@
-## Hi👋 I'm Khiem 
+## Hi👋 I'm Khiem
+
 aka **@kevinbkdev**
 
 [kevinbkdev.blog](https://kevinbkdev.blog)
 
 ```
-The man has the ambition to create Software Products with high value for millions of users. 
+The man has the ambition to create Software Products with high value for millions of users.
 ```
 
-### Background  💪
+### 💭 Random Quote of the Day
 
-* 🔭 I am working as a **Backend - Blockchain Engineer** since 2020.
-* 🌱 I come from *Ho Chi Minh City University of Technology (HCMUT - Bach Khoa)* - **Computer Science** major.
-* 👯 My programming language: Javascript, TypeScript, Solidity, Golang, Python, C++...
-* 💬 My framework: Express, Fastify, Nest, tRPC, Fiber, ElysiaJS, gRPC... 
-* 🤔 My database: MongoDB, Redis, Postgres,... 
-* 👯 My domain: Ethereum, NFT, Layer2, Enterprise-blockchain,...
-* ⚡ My architect: monolithic, SOA, microservices, serverless...
-* 🛠 My VPS: DO, AWS, GCP, Azure, Contabo,...
-* 💪 My keywords: Enthusiasm - Ambitious - Freedom
+> "You don't need to floss all of your teeth. Only the ones you want to keep."
+
+### Background 💪
+
+- 🔭 I am working as a **Backend - Blockchain Engineer** since 2020.
+- 🌱 I come from _Ho Chi Minh City University of Technology (HCMUT - Bach Khoa)_ - **Computer Science** major.
+- 👯 My programming language: Javascript, TypeScript, Solidity, Golang, Python, C++...
+- 💬 My framework: Express, Fastify, Nest, tRPC, Fiber, ElysiaJS, gRPC...
+- 🤔 My database: MongoDB, Redis, Postgres,...
+- 👯 My domain: Ethereum, NFT, Layer2, Enterprise-blockchain,...
+- ⚡ My architect: monolithic, SOA, microservices, serverless...
+- 🛠 My VPS: DO, AWS, GCP, Azure, Contabo,...
+- 💪 My keywords: Enthusiasm - Ambitious - Freedom
 
 <!--
 **khiem20tc/khiem20tc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -36,7 +41,7 @@ Here are some ideas to get you started:
 
 ### Personal projects 🤏
 
-> [NPM package author] https://www.npmjs.com/package/eth-blockchain-helper 
+> [NPM package author] https://www.npmjs.com/package/eth-blockchain-helper
 
 > [Personal blog] https://kevinbkdev.blog
 
@@ -59,7 +64,6 @@ Here are some ideas to get you started:
 
 <a href="https://kevinbkdev.blog"><img height="150px" src="https://github-readme-stats.vercel.app/api?username=khiem20tc&show_icons=true&hide_title=true&hide_border=true&theme=omni" /><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khiem20tc&show_icons=true&layout=compact&langs_count=6&hide_title=true&hide_border=true&theme=omni" /></a>
 
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khiem20tc/khiem20tc/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/khiem20tc/khiem20tc/output/github-contribution-grid-snake.svg">
@@ -73,7 +77,9 @@ Here are some ideas to get you started:
 ![Leetcode Stats](https://leetcard.jacoblin.cool/khiem20tc?ext=activity)
 
 # My recent blog posts
+
 <!-- BLOG-POST-LIST:START -->
+
 - [what crypto VCs actually want in founders &lpar;but won&#39;t tell you&rpar;](http://kevinbkdev.blog/blog/crypto-vc)
 - [Aligning Software Architecture with Business Models in 2025 — My Thoughts](http://kevinbkdev.blog/blog/architecture-2025)
 - [2024 - Year in Review](http://kevinbkdev.blog/blog/review-2024)
