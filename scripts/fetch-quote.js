@@ -47,7 +47,9 @@ async function updateReadme() {
     // Quote section template
     const quoteSection = `### 💭 Random Quote of the Day
 
-> "${quote}"
+\`\`\`
+"${quote}"
+\`\`\`
 
 `;
 
