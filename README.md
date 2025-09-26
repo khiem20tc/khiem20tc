@@ -10,7 +10,7 @@ The man has the ambition to create Software Products with high value for million
 
 ### 💭 Random Quote of the Day
 
-> "You don't need to floss all of your teeth. Only the ones you want to keep."
+> "Smile and the world smiles with you. Frown and you're on your own."
 
 ### Background 💪
 
