@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Sarcasm is the lowest form of wit. Employ correctly with apt timing."
+"Everyone has their down days. Don't take it out on innocent bystanders."
 ```
 
 ### Background 💪
