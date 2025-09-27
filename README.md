@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"You're not that important; it's what you do that counts."
+"Step 1. Give a shit. Step 2. Don't be a dick. Step 3. Know when to let go."
 ```
 
 ### Background 💪
