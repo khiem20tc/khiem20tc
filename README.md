@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"The most delicious cocktails often have the highest alcohol content. Always pace yourself to preserve your dignity."
+"You can have too much of a good thing."
 ```
 
 ### Background 💪
