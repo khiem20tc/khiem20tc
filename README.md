@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Brush your teeth the moment you get up."
+"Never waste an opportunity to tell someone you love them."
 ```
 
 ### Background 💪
