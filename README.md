@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Never waste an opportunity to tell someone you love them."
+"The most delicious cocktails often have the highest alcohol content. Always pace yourself to preserve your dignity."
 ```
 
 ### Background 💪
