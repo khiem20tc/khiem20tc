@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"YOLO"
+"Do, or do not. There is no try."
 ```
 
 ### Background 💪
