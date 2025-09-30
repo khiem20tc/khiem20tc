@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Do, or do not. There is no try."
+"If you are feeling down, try holding a pencil between your top lip and your nose for five minutes."
 ```
 
 ### Background 💪
