@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Build something out of LEGO."
+"If you're going bald, don't comb your hair over your bald patch."
 ```
 
 ### Background 💪
