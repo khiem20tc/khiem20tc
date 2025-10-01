@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Eat food. Not too much, mostly plants."
+"Walking is a perfectly valid solution to traffic congestion problems."
 ```
 
 ### Background 💪
