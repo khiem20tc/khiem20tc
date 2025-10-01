@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Walking is a perfectly valid solution to traffic congestion problems."
+"Today, do not use the words "Kind of", "Sort of" or "Maybe". It either is or it isn't."
 ```
 
 ### Background 💪
