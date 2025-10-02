@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Don't give to others advice which you wouldn't follow."
+"Pedantry is fine, unless you're on the receiving end. And not a pedant."
 ```
 
 ### Background 💪
