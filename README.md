@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Today, do not use the words "Kind of", "Sort of" or "Maybe". It either is or it isn't."
+"Don't give to others advice which you wouldn't follow."
 ```
 
 ### Background 💪
