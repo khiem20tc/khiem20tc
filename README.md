@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"It's unlucky to be superstitious."
+"If you cannot unscrew the lid of a jar, try placing a rubber band around its circumference for extra grip."
 ```
 
 ### Background 💪
