@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Never pay full price for a sofa at DFS."
+"A common regret in life is wishing one had the courage to be ones true self."
 ```
 
 ### Background 💪
