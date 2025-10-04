@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Mercy is the better part of justice."
+"Don't give a speech. Put on a show."
 ```
 
 ### Background 💪
