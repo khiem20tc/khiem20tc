@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Don't give a speech. Put on a show."
+"If you think your headphones are dying, check the socket for fluff with a straightened paperclip."
 ```
 
 ### Background 💪
