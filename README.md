@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Being kind is more rewarding than being right."
+"You can fail at what you don't want. So you might as well take a chance on doing what you love."
 ```
 
 ### Background 💪
