@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Never let your Mother cut your hair."
+"You will always regret the round of JÃ¤germeister."
 ```
 
 ### Background 💪
