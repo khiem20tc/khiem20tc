@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Things are just things. Don't get too attached to them."
+"Everybody makes mistakes."
 ```
 
 ### Background 💪
