@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Everybody makes mistakes."
+"Never let your Mother cut your hair."
 ```
 
 ### Background 💪
