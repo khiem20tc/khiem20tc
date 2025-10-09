@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"It's wrong to be right."
+"If you find yourself distressed about something, ask yourself if it will still matter tomorrow or next week or next month."
 ```
 
 ### Background 💪
