@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"You will always regret the round of JÃ¤germeister."
+"Turn jeans inside out when washing them to help preserve their colour."
 ```
 
 ### Background 💪
