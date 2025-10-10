@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"When in doubt, just take the next small step."
+"Never regret. If it's good, it's wonderful. If it's bad, it's experience."
 ```
 
 ### Background 💪
