@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Don't ever name files or folders using the word "Final"."
+"Only those who attempt the impossible can achieve the absurd."
 ```
 
 ### Background 💪
