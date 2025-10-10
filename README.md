@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Only those who attempt the impossible can achieve the absurd."
+"To improve productivity, always have a shittier task to put off."
 ```
 
 ### Background 💪
