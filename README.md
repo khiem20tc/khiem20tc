@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"To improve productivity, always have a shittier task to put off."
+"The person who never made a mistake never made anything."
 ```
 
 ### Background 💪
