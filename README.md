@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"It's always the quiet ones."
+"No one knows anyone else in the way you do."
 ```
 
 ### Background 💪
