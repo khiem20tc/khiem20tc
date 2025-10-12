@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Give up your seat for someone who needs it."
+"Once in a while, eat some sweets you used to enjoy when you were younger."
 ```
 
 ### Background 💪
