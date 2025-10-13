@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Never run with scissors."
+"Never let your Mother cut your hair."
 ```
 
 ### Background 💪
