@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Never let your Mother cut your hair."
+"Plant a tree."
 ```
 
 ### Background 💪
