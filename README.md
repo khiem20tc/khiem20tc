@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Always the burrito."
+"Never run with scissors."
 ```
 
 ### Background 💪
