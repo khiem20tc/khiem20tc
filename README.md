@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Never waste an opportunity to tell someone you love them."
+"You're not that important; it's what you do that counts."
 ```
 
 ### Background 💪
