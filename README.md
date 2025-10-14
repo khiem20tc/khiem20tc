@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Plant a tree."
+"Never waste an opportunity to tell someone you love them."
 ```
 
 ### Background 💪
