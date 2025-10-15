@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Accentuate the positive, eliminate the negative."
+"The most important thing is the thing most easily forgotten."
 ```
 
 ### Background 💪
