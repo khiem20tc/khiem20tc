@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"If you don't ask, you don't get."
+"Don't always believe what you think."
 ```
 
 ### Background 💪
