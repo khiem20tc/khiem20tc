@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"If it still itches after a week, go to the doctors."
+"If you don't ask, you don't get."
 ```
 
 ### Background 💪
