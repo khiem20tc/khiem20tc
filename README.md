@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Your smile could make someone's day, don't forget to wear it."
+"If it still itches after a week, go to the doctors."
 ```
 
 ### Background 💪
