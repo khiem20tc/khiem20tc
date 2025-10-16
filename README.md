@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Try buying a coffee for the creator of a free public API, now and then."
+"Your smile could make someone's day, don't forget to wear it."
 ```
 
 ### Background 💪
