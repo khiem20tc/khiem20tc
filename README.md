@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Remember that spiders are more afraid of you, than you are of them."
+"The sun always shines above the clouds."
 ```
 
 ### Background 💪
