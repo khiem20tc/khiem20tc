@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Don't always believe what you think."
+"The sun always shines above the clouds."
 ```
 
 ### Background 💪
