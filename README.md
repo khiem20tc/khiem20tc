@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"The sun always shines above the clouds."
+"Stop using the term "busy" as an excuse."
 ```
 
 ### Background 💪
