@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Never buy cheap cling film."
+"When in doubt, just take the next small step."
 ```
 
 ### Background 💪
