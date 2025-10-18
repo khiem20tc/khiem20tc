@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"When in doubt, just take the next small step."
+"Always the burrito."
 ```
 
 ### Background 💪
