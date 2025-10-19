@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"It always seems impossible, until it's done."
+"When the cistern is filling, the seat is probably still warm."
 ```
 
 ### Background 💪
