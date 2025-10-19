@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Some people would be better off if they took their own advice."
+"If your hair is thinning, try dying your hair a similar tone to your scalp."
 ```
 
 ### Background 💪
