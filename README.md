@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Life is better when you sing about bananas."
+"Some people would be better off if they took their own advice."
 ```
 
 ### Background 💪
