@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"If you have the chance, take it!"
+"It always seems impossible, until it's done."
 ```
 
 ### Background 💪
