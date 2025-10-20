@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"It always seems impossible, until it's done."
+"Do not seek praise, seek criticism."
 ```
 
 ### Background 💪
