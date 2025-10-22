@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Don't judge a book by its cover, unless it has a synopsis on the back."
+"If you're feeling tired or anxious, a pint of water will almost always make you feel better."
 ```
 
 ### Background 💪
