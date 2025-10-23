@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Remember that spiders are more afraid of you, than you are of them."
+"Good advice is something a man gives when he is too old to set a bad example."
 ```
 
 ### Background 💪
