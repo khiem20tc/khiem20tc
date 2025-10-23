@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Make choices and dont look back."
+"Remember that spiders are more afraid of you, than you are of them."
 ```
 
 ### Background 💪
