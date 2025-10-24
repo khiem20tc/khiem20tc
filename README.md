@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Sing in the shower."
+"The person who never made a mistake never made anything."
 ```
 
 ### Background 💪
