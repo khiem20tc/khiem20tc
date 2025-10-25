@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"It's unlucky to be superstitious."
+"If it still itches after a week, go to the doctors."
 ```
 
 ### Background 💪
