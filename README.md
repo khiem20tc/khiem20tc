@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"If it still itches after a week, go to the doctors."
+"Never write in an email to someone, something which you wouldn't say to that person's face."
 ```
 
 ### Background 💪
