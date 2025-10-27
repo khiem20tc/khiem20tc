@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Learn from your mistakes."
+"Try going commando to an important meeting, NB: don't wear a skirt."
 ```
 
 ### Background 💪
