@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Try going commando to an important meeting, NB: don't wear a skirt."
+"Don't always believe what you think."
 ```
 
 ### Background 💪
