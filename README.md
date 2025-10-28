@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"It's unlucky to be superstitious."
+"When faced with a choice, do both."
 ```
 
 ### Background 💪
