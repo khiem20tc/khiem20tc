@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"When faced with a choice, do both."
+"Happiness is a journey, not a destination."
 ```
 
 ### Background 💪
