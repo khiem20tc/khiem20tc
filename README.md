@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"The best sex is fun."
+"Once in a while, eat some sweets you used to enjoy when you were younger."
 ```
 
 ### Background 💪
