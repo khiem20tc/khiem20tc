@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Once in a while, eat some sweets you used to enjoy when you were younger."
+"A common regret in life is wishing one had the courage to be ones true self."
 ```
 
 ### Background 💪
