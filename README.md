@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Make choices and dont look back."
+"Why wait until valentines day for a romantic gesture?"
 ```
 
 ### Background 💪
