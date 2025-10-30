@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Don't waste food."
+"It's not about who likes you, it's about who you like."
 ```
 
 ### Background 💪
