@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"It's not about who likes you, it's about who you like."
+"Accentuate the positive, eliminate the negative."
 ```
 
 ### Background 💪
