@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Age is of no importance, unless you are a cheese."
+"Everything matters, but nothing matters that much."
 ```
 
 ### Background 💪
