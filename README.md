@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Identify sources of happiness."
+"Never buy cheap cling film."
 ```
 
 ### Background 💪
