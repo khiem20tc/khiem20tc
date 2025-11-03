@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Today, do not use the words "Kind of", "Sort of" or "Maybe". It either is or it isn't."
+"One of the single best things about being an adult, is being able to buy as much LEGO as you want."
 ```
 
 ### Background 💪
