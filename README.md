@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Learn from your mistakes."
+"Gratitude is said to be the secret to happiness."
 ```
 
 ### Background 💪
