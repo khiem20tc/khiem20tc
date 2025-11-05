@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Life is better when you sing about bananas."
+"Don't assume anything is possible or impossible until you've asked the people who will be doing the work."
 ```
 
 ### Background 💪
