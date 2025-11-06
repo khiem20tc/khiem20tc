@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Don't assume anything is possible or impossible until you've asked the people who will be doing the work."
+"The most important thing is the thing most easily forgotten."
 ```
 
 ### Background 💪
