@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"The most important thing is the thing most easily forgotten."
+"Be a good lover."
 ```
 
 ### Background 💪
