@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Be a good lover."
+"Don't take it personally."
 ```
 
 ### Background 💪
