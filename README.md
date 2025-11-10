@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Pedantry is fine, unless you're on the receiving end. And not a pedant."
+"Respect other people's opinions, even when they differ from your own."
 ```
 
 ### Background 💪
