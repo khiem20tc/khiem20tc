@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Put a piece of kitchen roll in with your bag of leaves to make them last longer."
+"Pedantry is fine, unless you're on the receiving end. And not a pedant."
 ```
 
 ### Background 💪
