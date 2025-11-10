@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Don't waste food."
+"Don't feed Mogwais after midnight."
 ```
 
 ### Background 💪
