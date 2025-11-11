@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"The hardest things to say are usually the most important."
+"Don't wear clean trousers when walking your dog in the park."
 ```
 
 ### Background 💪
