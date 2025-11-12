@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Stop using the term "busy" as an excuse."
+"Share positive energy."
 ```
 
 ### Background 💪
