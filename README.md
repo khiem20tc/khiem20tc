@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"The quieter you become, the more you can hear."
+"Stop using the term "busy" as an excuse."
 ```
 
 ### Background 💪
