@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Big things have small beginnings."
+"It is easy to sit up and take notice, what's difficult is getting up and taking action."
 ```
 
 ### Background 💪
