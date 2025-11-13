@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Don't eat non-snow-coloured snow."
+"Big things have small beginnings."
 ```
 
 ### Background 💪
