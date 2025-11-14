@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Try buying a coffee for the creator of a free public API, now and then."
+"As things get closer to the light, the shadows get darker."
 ```
 
 ### Background 💪
