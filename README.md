@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"As things get closer to the light, the shadows get darker."
+"Just because you are offended, doesn't mean you are right."
 ```
 
 ### Background 💪
