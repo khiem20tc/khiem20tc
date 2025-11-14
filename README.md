@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Sometimes it's best to ignore other people's advice."
+"Try buying a coffee for the creator of a free public API, now and then."
 ```
 
 ### Background 💪
