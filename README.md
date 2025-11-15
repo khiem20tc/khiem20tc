@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Don't wear clean trousers when walking your dog in the park."
+"Plant a tree."
 ```
 
 ### Background 💪
