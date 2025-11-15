@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Sing in the shower."
+"Don't wear clean trousers when walking your dog in the park."
 ```
 
 ### Background 💪
