@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Don't try and bump start a motorcycle on an icy road."
+"Sing in the shower."
 ```
 
 ### Background 💪
