@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Do a bit more for your friends."
+"No one knows anyone else in the way you do."
 ```
 
 ### Background 💪
