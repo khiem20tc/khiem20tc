@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Accept advice."
+"Build something out of LEGO."
 ```
 
 ### Background 💪
