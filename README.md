@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Plant a tree."
+"Accept advice."
 ```
 
 ### Background 💪
