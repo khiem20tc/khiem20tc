@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Never regret. If it's good, it's wonderful. If it's bad, it's experience."
+"Sing in the shower."
 ```
 
 ### Background 💪
