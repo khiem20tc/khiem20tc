@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Don't give to others advice which you wouldn't follow."
+"Never waste an opportunity to tell someone you love them."
 ```
 
 ### Background 💪
