@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Sometimes it's best to ignore other people's advice."
+"Visitors are like fish: As much as you might like them, after three days they start to smell."
 ```
 
 ### Background 💪
