@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"It's always the quiet ones."
+"Sometimes it's best to ignore other people's advice."
 ```
 
 ### Background 💪
