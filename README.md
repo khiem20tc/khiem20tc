@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Never waste an opportunity to tell someone you love them."
+"It's always the quiet ones."
 ```
 
 ### Background 💪
