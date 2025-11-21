@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"One of the top five regrets people have is that they didn't stay in contact with friends."
+"Age is of no importance, unless you are a cheese."
 ```
 
 ### Background 💪
