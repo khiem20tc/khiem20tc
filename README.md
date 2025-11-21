@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"If you need cheering up, try searching online for photos of kittens."
+"The best nights out are when people around you are simply having fun."
 ```
 
 ### Background 💪
