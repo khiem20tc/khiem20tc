@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Value the people in your life."
+"Enjoy a little nonsense now and then."
 ```
 
 ### Background 💪
