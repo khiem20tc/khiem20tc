@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Don't take it personally."
+"Exercise in the rain can really make you feel alive."
 ```
 
 ### Background 💪
