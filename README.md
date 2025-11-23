@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Never write in an email to someone, something which you wouldn't say to that person's face."
+"If you can't do anything about it, there's no point in worrying about it."
 ```
 
 ### Background 💪
