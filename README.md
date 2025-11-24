@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Give up your seat for someone who needs it."
+"You will always regret the round of JÃ¤germeister."
 ```
 
 ### Background 💪
