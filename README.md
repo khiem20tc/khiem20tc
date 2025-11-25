@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"The best nights out are when people around you are simply having fun."
+"Life is better when you sing about bananas."
 ```
 
 ### Background 💪
