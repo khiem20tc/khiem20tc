@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Life is short enough, don't race to the finish."
+"The more ideas that you give away, the more ideas that will come to you."
 ```
 
 ### Background 💪
