@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"The more ideas that you give away, the more ideas that will come to you."
+"Don't judge a book by its cover, unless it has a synopsis on the back."
 ```
 
 ### Background 💪
