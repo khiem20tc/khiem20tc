@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Try using an old idea."
+"If you need cheering up, try searching online for photos of kittens."
 ```
 
 ### Background 💪
