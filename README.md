@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"When hugging, hug with both arms and apply reasonable, affectionate pressure."
+"Never write in an email to someone, something which you wouldn't say to that person's face."
 ```
 
 ### Background 💪
