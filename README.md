@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"If you need cheering up, try searching online for photos of kittens."
+"Most things done in secrecy are better left undone."
 ```
 
 ### Background 💪
