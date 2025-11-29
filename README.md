@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Your smile could make someone's day, don't forget to wear it."
+"If you have grandparents or parents - Talk to them more. Ask them about their life experiences."
 ```
 
 ### Background 💪
