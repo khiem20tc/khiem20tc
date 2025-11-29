@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"If you have grandparents or parents - Talk to them more. Ask them about their life experiences."
+"Most things are not as bad as you think they are."
 ```
 
 ### Background 💪
