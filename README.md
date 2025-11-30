@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Most things are not as bad as you think they are."
+"There is no reason at all to believe that White Wine is any different to water when it comes to removing Red Wine stains."
 ```
 
 ### Background 💪
