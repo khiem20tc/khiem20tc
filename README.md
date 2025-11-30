@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"There is no reason at all to believe that White Wine is any different to water when it comes to removing Red Wine stains."
+"Be a good lover."
 ```
 
 ### Background 💪
