@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Don't always rely on your comforts."
+"Don't be afraid of silly ideas."
 ```
 
 ### Background 💪
