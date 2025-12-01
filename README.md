@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"When you're at a concert or event, enjoy the moment, enjoy being there. Try leaving your camera in your pocket."
+"Smile and the world smiles with you. Frown and you're on your own."
 ```
 
 ### Background 💪
