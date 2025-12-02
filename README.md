@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"For every complex problem there is an answer that is clear, simple, and wrong."
+"If it still itches after a week, go to the doctors."
 ```
 
 ### Background 💪
