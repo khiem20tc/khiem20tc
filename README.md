@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Measure twice, cut once."
+"For every complex problem there is an answer that is clear, simple, and wrong."
 ```
 
 ### Background 💪
