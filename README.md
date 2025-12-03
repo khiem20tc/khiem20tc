@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Don't burn bridges."
+"Don't cross the streams."
 ```
 
 ### Background 💪
