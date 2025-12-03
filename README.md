@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Don't cross the streams."
+"Always bet on black."
 ```
 
 ### Background 💪
