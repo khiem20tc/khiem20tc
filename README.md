@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Always bet on black."
+"Don't take life too seriously."
 ```
 
 ### Background 💪
