@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Don't take life too seriously."
+"Why wait until valentines day for a romantic gesture?"
 ```
 
 ### Background 💪
