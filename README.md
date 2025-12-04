@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Don't be afraid of silly ideas."
+"If you can't do anything about it, there's no point in worrying about it."
 ```
 
 ### Background 💪
