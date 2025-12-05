@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Everything matters, but nothing matters that much."
+"Don't always believe what you think."
 ```
 
 ### Background 💪
