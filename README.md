@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"If your hair is thinning, try dying your hair a similar tone to your scalp."
+"When having a clear out, ask yourself if an item has any financial, practical or sentimental value. If not, chuck it."
 ```
 
 ### Background 💪
