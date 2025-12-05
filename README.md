@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Don't always believe what you think."
+"If your hair is thinning, try dying your hair a similar tone to your scalp."
 ```
 
 ### Background 💪
