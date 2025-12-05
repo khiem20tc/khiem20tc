@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Never let your Mother cut your hair."
+"Everything matters, but nothing matters that much."
 ```
 
 ### Background 💪
