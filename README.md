@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"When having a clear out, ask yourself if an item has any financial, practical or sentimental value. If not, chuck it."
+"It's not about who likes you, it's about who you like."
 ```
 
 ### Background 💪
