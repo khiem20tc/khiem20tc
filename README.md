@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"If you don't like the opinion you've been given, get another one."
+"Just because you are offended, doesn't mean you are right."
 ```
 
 ### Background 💪
