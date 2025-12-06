@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"As you get older, learn never to trust a fart."
+"If you don't like the opinion you've been given, get another one."
 ```
 
 ### Background 💪
