@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Brush your teeth the moment you get up."
+"Opinions are like arseholes, everyone has one."
 ```
 
 ### Background 💪
