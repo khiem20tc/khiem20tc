@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Opinions are like arseholes, everyone has one."
+"No one knows anyone else in the way you do."
 ```
 
 ### Background 💪
