@@ -79,11 +79,11 @@ Here are some ideas to get you started:
 # My recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [I was hacked 2,500$ from hot wallets](http://kevinbkdev.blog/blog/crypto-hack)
-- [what crypto VCs actually want in founders &lpar;but won&#39;t tell you&rpar;](http://kevinbkdev.blog/blog/crypto-vc)
-- [Aligning Software Architecture with Business Models in 2025 — My Thoughts](http://kevinbkdev.blog/blog/architecture-2025)
-- [2024 - Year in Review](http://kevinbkdev.blog/blog/review-2024)
-- [[MongoDB - phần 4] Thực chiến triển khai và cấu hình Sharding MongoDB](http://kevinbkdev.blog/blog/mongodb-setup-p4)
+- [I was hacked 2,500$ from hot wallets](https://kevinbkdev.vercel.app/blog/crypto-hack)
+- [what crypto VCs actually want in founders &lpar;but won&#39;t tell you&rpar;](https://kevinbkdev.vercel.app/blog/crypto-vc)
+- [Aligning Software Architecture with Business Models in 2025 — My Thoughts](https://kevinbkdev.vercel.app/blog/architecture-2025)
+- [2024 - Year in Review](https://kevinbkdev.vercel.app/blog/review-2024)
+- [[MongoDB - phần 4] Thực chiến triển khai và cấu hình Sharding MongoDB](https://kevinbkdev.vercel.app/blog/mongodb-setup-p4)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
