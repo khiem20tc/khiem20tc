@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"No one knows anyone else in the way you do."
+"You don't need to floss all of your teeth. Only the ones you want to keep."
 ```
 
 ### Background 💪
