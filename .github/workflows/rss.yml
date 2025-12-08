@@ -19,4 +19,4 @@ jobs:
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://kevinbkdev.blog/rss"
+          feed_list: "https://kevinbkdev.vercel.app/rss"
