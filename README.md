@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Try to not compliment people on things they don't control."
+"Don't try and bump start a motorcycle on an icy road."
 ```
 
 ### Background 💪
