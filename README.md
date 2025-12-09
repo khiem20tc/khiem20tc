@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Work is never as important as you think it is."
+"When hugging, hug with both arms and apply reasonable, affectionate pressure."
 ```
 
 ### Background 💪
