@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"When hugging, hug with both arms and apply reasonable, affectionate pressure."
+"Remember that spiders are more afraid of you, than you are of them."
 ```
 
 ### Background 💪
