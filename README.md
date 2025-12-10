@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Don't take it personally."
+"Don't use Excel or Powerpoint documents for your basic word processing needs."
 ```
 
 ### Background 💪
