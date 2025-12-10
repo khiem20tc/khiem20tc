@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Don't use Excel or Powerpoint documents for your basic word processing needs."
+"The best nights out are when people around you are simply having fun."
 ```
 
 ### Background 💪
