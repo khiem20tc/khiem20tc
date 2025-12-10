@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"The best nights out are when people around you are simply having fun."
+"The best sex is fun."
 ```
 
 ### Background 💪
