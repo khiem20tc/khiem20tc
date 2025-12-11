@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"As things get closer to the light, the shadows get darker."
+"Mercy is the better part of justice."
 ```
 
 ### Background 💪
