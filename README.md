@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"The best sex is fun."
+"Always double check you actually attached the file to the email."
 ```
 
 ### Background 💪
