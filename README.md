@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"A problem shared is a problem halved."
+"If you don't want something to be public, don't post it on the Internet."
 ```
 
 ### Background 💪
