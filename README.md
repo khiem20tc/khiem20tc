@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"If you don't want something to be public, don't post it on the Internet."
+"Just because you are offended, doesn't mean you are right."
 ```
 
 ### Background 💪
