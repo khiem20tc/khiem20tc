@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Cars are bad investments."
+"A problem shared is a problem halved."
 ```
 
 ### Background 💪
