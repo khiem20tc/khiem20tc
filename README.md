@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Just because you are offended, doesn't mean you are right."
+"Most things done in secrecy are better left undone."
 ```
 
 ### Background 💪
