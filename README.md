@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"You have as many hours in a day as the people you admire most."
+"Remedy tickly coughs with a drink of honey, lemon and water as hot as you can take."
 ```
 
 ### Background 💪
