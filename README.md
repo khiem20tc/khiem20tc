@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Don't burn bridges."
+"To cleanly remove the seed from an Avocado, lay a knife firmly across it, and twist."
 ```
 
 ### Background 💪
