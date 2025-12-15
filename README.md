@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"To cleanly remove the seed from an Avocado, lay a knife firmly across it, and twist."
+"If you can't do anything about it, there's no point in worrying about it."
 ```
 
 ### Background 💪
