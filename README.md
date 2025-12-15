@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"When painting a room, preparation is key. The actual painting should account for about 40% of the work."
+"Remedy tickly coughs with a drink of honey, lemon and water as hot as you can take."
 ```
 
 ### Background 💪
