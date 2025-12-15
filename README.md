@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"If you can't do anything about it, there's no point in worrying about it."
+"When painting a room, preparation is key. The actual painting should account for about 40% of the work."
 ```
 
 ### Background 💪
