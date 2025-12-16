@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Everything in moderation, including moderation itself."
+"Always seek out advice or opinions when making a decision."
 ```
 
 ### Background 💪
