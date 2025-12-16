@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Always seek out advice or opinions when making a decision."
+"The sun always shines above the clouds."
 ```
 
 ### Background 💪
