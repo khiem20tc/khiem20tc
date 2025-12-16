@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"The sun always shines above the clouds."
+"Never pay full price for a sofa at DFS."
 ```
 
 ### Background 💪
