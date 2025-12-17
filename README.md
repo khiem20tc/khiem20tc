@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Never pay full price for a sofa at DFS."
+"It's not about who likes you, it's about who you like."
 ```
 
 ### Background 💪
