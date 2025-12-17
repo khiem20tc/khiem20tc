@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"If you're going bald, don't comb your hair over your bald patch."
+"Enjoy a little nonsense now and then."
 ```
 
 ### Background 💪
