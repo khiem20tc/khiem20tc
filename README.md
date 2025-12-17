@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Enjoy a little nonsense now and then."
+"Happiness is a journey, not a destination."
 ```
 
 ### Background 💪
