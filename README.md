@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Don't let the bastards grind you down."
+"If it ain't broke don't fix it."
 ```
 
 ### Background 💪
