@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Big things have small beginnings."
+"If you don't want something to be public, don't post it on the Internet."
 ```
 
 ### Background 💪
