@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Identify sources of happiness."
+"Big things have small beginnings."
 ```
 
 ### Background 💪
