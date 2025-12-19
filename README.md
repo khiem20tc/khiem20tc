@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Don't drink bleach."
+"Identify sources of happiness."
 ```
 
 ### Background 💪
