@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Don't always rely on your comforts."
+"Some of life's best lessons are learnt at the worst times."
 ```
 
 ### Background 💪
