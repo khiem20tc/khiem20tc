@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Some of life's best lessons are learnt at the worst times."
+"It always seems impossible, until it's done."
 ```
 
 ### Background 💪
