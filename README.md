@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"If it still itches after a week, go to the doctors."
+"If you think nobody cares if you're alive, try missing a few payments."
 ```
 
 ### Background 💪
