@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"If you think nobody cares if you're alive, try missing a few payments."
+"Do, or do not. There is no try."
 ```
 
 ### Background 💪
