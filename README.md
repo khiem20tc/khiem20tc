@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Taking photos with tablet devices looks weird."
+"You can have too much of a good thing."
 ```
 
 ### Background 💪
