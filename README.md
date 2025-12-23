@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"When you're looking up at birds flying overhead, keep your mouth closed."
+"If you find yourself distressed about something, ask yourself if it will still matter tomorrow or next week or next month."
 ```
 
 ### Background 💪
