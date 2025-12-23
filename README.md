@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Respect other people's opinions, even when they differ from your own."
+"When you're looking up at birds flying overhead, keep your mouth closed."
 ```
 
 ### Background 💪
