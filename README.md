@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"The more ideas that you give away, the more ideas that will come to you."
+"Remedy tickly coughs with a drink of honey, lemon and water as hot as you can take."
 ```
 
 ### Background 💪
