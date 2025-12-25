@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Try to not compliment people on things they don't control."
+"Smile and the world smiles with you. Frown and you're on your own."
 ```
 
 ### Background 💪
