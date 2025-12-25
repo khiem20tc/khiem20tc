@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Try to not compliment people on things they don't control."
+"Never regret. If it's good, it's wonderful. If it's bad, it's experience."
 ```
 
 ### Background 💪
