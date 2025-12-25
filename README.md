@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"If you're feeling tired or anxious, a pint of water will almost always make you feel better."
+"Try to not compliment people on things they don't control."
 ```
 
 ### Background 💪
