@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Never regret. If it's good, it's wonderful. If it's bad, it's experience."
+"The higher up you are in a company, the more likely it is that your boss is a psychopath."
 ```
 
 ### Background 💪
