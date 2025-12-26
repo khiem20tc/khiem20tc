@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"The higher up you are in a company, the more likely it is that your boss is a psychopath."
+"If you don't want something to be public, don't post it on the Internet."
 ```
 
 ### Background 💪
