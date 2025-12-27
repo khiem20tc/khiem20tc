@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Do, or do not. There is no try."
+"Don't be afraid of silly ideas."
 ```
 
 ### Background 💪
