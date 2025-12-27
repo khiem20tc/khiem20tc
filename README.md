@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Don't be afraid of silly ideas."
+"If you're going bald, don't comb your hair over your bald patch."
 ```
 
 ### Background 💪
