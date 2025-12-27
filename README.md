@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"If you're going bald, don't comb your hair over your bald patch."
+"If you think your headphones are dying, check the socket for fluff with a straightened paperclip."
 ```
 
 ### Background 💪
