@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"It is easy to sit up and take notice, what's difficult is getting up and taking action."
+"It's not about who likes you, it's about who you like."
 ```
 
 ### Background 💪
