@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"If it still itches after a week, go to the doctors."
+"The number of vampires in the average home, is directly proportional to the amount of garlic bread in the fridge."
 ```
 
 ### Background 💪
