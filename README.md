@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Measure twice, cut once."
+"Sing in the shower."
 ```
 
 ### Background 💪
