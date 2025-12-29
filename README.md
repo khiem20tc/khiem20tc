@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Today, do not use the words "Kind of", "Sort of" or "Maybe". It either is or it isn't."
+"Everything matters, but nothing matters that much."
 ```
 
 ### Background 💪
