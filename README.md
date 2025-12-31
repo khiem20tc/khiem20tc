@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Don't give a speech. Put on a show."
+"If you are ever in doubt about whether or not to wash your hair: Wash it."
 ```
 
 ### Background 💪
