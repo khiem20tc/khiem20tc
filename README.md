@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"If you don't like the opinion you've been given, get another one."
+"The higher up you are in a company, the more likely it is that your boss is a psychopath."
 ```
 
 ### Background 💪
