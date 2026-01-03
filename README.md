@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Vinegar is a powerful cleaning agent."
+"What's stopping you?"
 ```
 
 ### Background 💪
