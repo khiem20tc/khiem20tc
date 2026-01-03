@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"What's stopping you?"
+"Eliminate the unnecessary."
 ```
 
 ### Background 💪
