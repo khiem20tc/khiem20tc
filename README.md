@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Cars are bad investments."
+"Tell it like it is."
 ```
 
 ### Background 💪
