@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"The more ideas that you give away, the more ideas that will come to you."
+"Eliminate the unnecessary."
 ```
 
 ### Background 💪
