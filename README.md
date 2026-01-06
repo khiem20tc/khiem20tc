@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Never buy cheap cling film."
+"The more ideas that you give away, the more ideas that will come to you."
 ```
 
 ### Background 💪
