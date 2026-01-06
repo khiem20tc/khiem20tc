@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Learn to handle criticism."
+"Don't drink bleach."
 ```
 
 ### Background 💪
