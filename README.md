@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Eliminate the unnecessary."
+"Learn to handle criticism."
 ```
 
 ### Background 💪
