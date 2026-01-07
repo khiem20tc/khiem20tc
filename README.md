@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Just because you are offended, doesn't mean you are right."
+"Once you find a really good friend don't do anything that could mess up your friendship."
 ```
 
 ### Background 💪
