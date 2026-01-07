@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Don't drink bleach."
+"Just because you are offended, doesn't mean you are right."
 ```
 
 ### Background 💪
