@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Give up your seat for someone who needs it."
+"When hugging, hug with both arms and apply reasonable, affectionate pressure."
 ```
 
 ### Background 💪
