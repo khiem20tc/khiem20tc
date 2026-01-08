@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"You will always regret the round of JÃ¤germeister."
+"Do not seek praise, seek criticism."
 ```
 
 ### Background 💪
