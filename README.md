@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"The best sex is fun."
+"Do not seek praise, seek criticism."
 ```
 
 ### Background 💪
