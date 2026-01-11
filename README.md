@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Do not seek praise, seek criticism."
+"As you get older, learn never to trust a fart."
 ```
 
 ### Background 💪
