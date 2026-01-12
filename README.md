@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"If you think nobody cares if you're alive, try missing a few payments."
+"If you cannot unscrew the lid of a jar, try placing a rubber band around its circumference for extra grip."
 ```
 
 ### Background 💪
