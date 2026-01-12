@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Cars are bad investments."
+"What could you increase? What could you reduce?"
 ```
 
 ### Background 💪
