@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Taking photos with tablet devices looks weird."
+"Avoid mixing Ginger Nuts with other biscuits, they contaminate. Keep separated."
 ```
 
 ### Background 💪
