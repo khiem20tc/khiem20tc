@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Sing in the shower."
+"Taking photos with tablet devices looks weird."
 ```
 
 ### Background 💪
