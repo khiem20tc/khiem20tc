@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Avoid mixing Ginger Nuts with other biscuits, they contaminate. Keep separated."
+"Always the burrito."
 ```
 
 ### Background 💪
