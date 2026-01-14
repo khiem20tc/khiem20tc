@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"One of the top five regrets people have is that they didn't stay in contact with friends."
+"A common regret in life is wishing one hadn't worked so hard."
 ```
 
 ### Background 💪
