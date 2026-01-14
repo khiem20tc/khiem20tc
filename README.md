@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"If you need cheering up, try searching online for photos of kittens."
+"One of the top five regrets people have is that they didn't stay in contact with friends."
 ```
 
 ### Background 💪
