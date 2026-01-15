@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Always seek out advice or opinions when making a decision."
+"You don't need to floss all of your teeth. Only the ones you want to keep."
 ```
 
 ### Background 💪
