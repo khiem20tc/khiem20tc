@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Only those who attempt the impossible can achieve the absurd."
+"Good advice is something a man gives when he is too old to set a bad example."
 ```
 
 ### Background 💪
