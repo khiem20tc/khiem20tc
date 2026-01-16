@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Being kind is more rewarding than being right."
+"Never set an alarm clock unless you know how to switch it off"
 ```
 
 ### Background 💪
