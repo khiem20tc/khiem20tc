@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Never set an alarm clock unless you know how to switch it off"
+"To cleanly remove the seed from an Avocado, lay a knife firmly across it, and twist."
 ```
 
 ### Background 💪
