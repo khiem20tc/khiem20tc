@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"What's stopping you?"
+"Never pay full price for a sofa at DFS."
 ```
 
 ### Background 💪
