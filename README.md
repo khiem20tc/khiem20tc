@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Never pay full price for a sofa at DFS."
+"Accept advice."
 ```
 
 ### Background 💪
