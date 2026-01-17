@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Try making a list."
+"What's stopping you?"
 ```
 
 ### Background 💪
