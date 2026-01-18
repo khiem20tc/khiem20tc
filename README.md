@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"When you look around and don't see anyone you respect, its time to leave."
+"Most things look better when you put them in a circle."
 ```
 
 ### Background 💪
