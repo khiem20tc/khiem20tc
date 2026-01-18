@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Most things look better when you put them in a circle."
+"You have as many hours in a day as the people you admire most."
 ```
 
 ### Background 💪
