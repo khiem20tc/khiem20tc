@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Most things done in secrecy are better left undone."
+"A long walk alone with some time to think, can work wonders."
 ```
 
 ### Background 💪
