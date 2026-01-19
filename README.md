@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"No one knows anyone else in the way you do."
+"Don't use Excel or Powerpoint documents for your basic word processing needs."
 ```
 
 ### Background 💪
