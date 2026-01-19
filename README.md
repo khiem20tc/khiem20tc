@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"When the cistern is filling, the seat is probably still warm."
+"No one knows anyone else in the way you do."
 ```
 
 ### Background 💪
