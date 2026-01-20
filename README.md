@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"You never really grow up."
+"Do not compare yourself with others."
 ```
 
 ### Background 💪
