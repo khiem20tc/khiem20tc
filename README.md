@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"When faced with a choice, do both."
+"Most things look better when you put them in a circle."
 ```
 
 ### Background 💪
