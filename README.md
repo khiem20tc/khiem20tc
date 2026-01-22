@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Everything in moderation, including moderation itself."
+"Never let your Mother cut your hair."
 ```
 
 ### Background 💪
