@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Never let your Mother cut your hair."
+"Don't put off breaking up with someone when you know you want to. Prolonging the situation only makes it worse."
 ```
 
 ### Background 💪
