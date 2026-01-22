@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Don't feed Mogwais after midnight."
+"Everything in moderation, including moderation itself."
 ```
 
 ### Background 💪
