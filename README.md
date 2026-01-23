@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Never run a marathon in Crocs."
+"If it still itches after a week, go to the doctors."
 ```
 
 ### Background 💪
