@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Accept advice."
+"Never run a marathon in Crocs."
 ```
 
 ### Background 💪
