@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Your smile could make someone's day, don't forget to wear it."
+"Good advice is something a man gives when he is too old to set a bad example."
 ```
 
 ### Background 💪
