@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Do, or do not. There is no try."
+"Take time once in a while to look up at the stars for at least 5 minutes, in order to comprehend your cosmic significance."
 ```
 
 ### Background 💪
