@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Play is the true mother of invention."
+"Do, or do not. There is no try."
 ```
 
 ### Background 💪
