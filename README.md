@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"You can have too much of a good thing."
+"If you want to be happily married, marry a happy person."
 ```
 
 ### Background 💪
