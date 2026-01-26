@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Never waste an opportunity to tell someone you love them."
+"If you get stuck, try doing the opposite of what the solution requires."
 ```
 
 ### Background 💪
