@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"If you want to be happily married, marry a happy person."
+"Never write in an email to someone, something which you wouldn't say to that person's face."
 ```
 
 ### Background 💪
