@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Everything matters, but nothing matters that much."
+"Repeat people's names when you meet them."
 ```
 
 ### Background 💪
