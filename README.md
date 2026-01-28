@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"The sun always shines above the clouds."
+"The most important thing is the thing most easily forgotten."
 ```
 
 ### Background 💪
