@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"The most important thing is the thing most easily forgotten."
+"Smile and the world smiles with you. Frown and you're on your own."
 ```
 
 ### Background 💪
