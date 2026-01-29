@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Smile and the world smiles with you. Frown and you're on your own."
+"Opinions are like arseholes, everyone has one."
 ```
 
 ### Background 💪
