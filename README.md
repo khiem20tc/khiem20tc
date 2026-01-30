@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Take time once in a while to look up at the stars for at least 5 minutes, in order to comprehend your cosmic significance."
+"Just because you are offended, doesn't mean you are right."
 ```
 
 ### Background 💪
