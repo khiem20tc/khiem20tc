@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Just because you are offended, doesn't mean you are right."
+"When painting a room, preparation is key. The actual painting should account for about 40% of the work."
 ```
 
 ### Background 💪
