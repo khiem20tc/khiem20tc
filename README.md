@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"It is easy to sit up and take notice, what's difficult is getting up and taking action."
+"Everybody makes mistakes."
 ```
 
 ### Background 💪
