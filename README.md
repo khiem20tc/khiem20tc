@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"You're not that important; it's what you do that counts."
+"It is easy to sit up and take notice, what's difficult is getting up and taking action."
 ```
 
 ### Background 💪
