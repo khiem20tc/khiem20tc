@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Everything in moderation, including moderation itself."
+"Sarcasm is the lowest form of wit. Employ correctly with apt timing."
 ```
 
 ### Background 💪
