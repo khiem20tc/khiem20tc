@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Everybody makes mistakes."
+"Don't promise what you can't deliver."
 ```
 
 ### Background 💪
