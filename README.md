@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Don't take it personally."
+"Things are just things. Don't get too attached to them."
 ```
 
 ### Background 💪
