@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Never run with scissors."
+"Be brave. Even if you're not, pretend to be. No one can tell the difference."
 ```
 
 ### Background 💪
