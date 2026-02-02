@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Remedy tickly coughs with a drink of honey, lemon and water as hot as you can take."
+"If you can't do anything about it, there's no point in worrying about it."
 ```
 
 ### Background 💪
