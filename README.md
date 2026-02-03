@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Be brave. Even if you're not, pretend to be. No one can tell the difference."
+"Visitors are like fish: As much as you might like them, after three days they start to smell."
 ```
 
 ### Background 💪
