@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Visitors are like fish: As much as you might like them, after three days they start to smell."
+"Rule number 1: Try not to die. Rule number 2: Don't be a dick."
 ```
 
 ### Background 💪
