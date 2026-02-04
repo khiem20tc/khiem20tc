@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Do not check work email on your days off."
+"Things are just things. Don't get too attached to them."
 ```
 
 ### Background 💪
