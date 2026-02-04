@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Mercy is the better part of justice."
+"If you want to be happily married, marry a happy person."
 ```
 
 ### Background 💪
