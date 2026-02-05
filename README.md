@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"If you want to be happily married, marry a happy person."
+"Exercise in the rain can really make you feel alive."
 ```
 
 ### Background 💪
