@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"A common regret in life is wishing one hadn't worked so hard."
+"Don't give to others advice which you wouldn't follow."
 ```
 
 ### Background 💪
