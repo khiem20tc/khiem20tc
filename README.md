@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Build something out of LEGO."
+"A common regret in life is wishing one hadn't worked so hard."
 ```
 
 ### Background 💪
