@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"It's unlucky to be superstitious."
+"Respect other people's opinions, even when they differ from your own."
 ```
 
 ### Background 💪
