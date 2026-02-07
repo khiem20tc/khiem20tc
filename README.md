@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Never let your Mother cut your hair."
+"If you think nobody cares if you're alive, try missing a few payments."
 ```
 
 ### Background 💪
