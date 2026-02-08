@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Don't cross the streams."
+"As you get older, learn never to trust a fart."
 ```
 
 ### Background 💪
