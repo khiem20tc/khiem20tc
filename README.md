@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"As you get older, learn never to trust a fart."
+"Try buying a coffee for the creator of a free public API, now and then."
 ```
 
 ### Background 💪
