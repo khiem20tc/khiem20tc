@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Try going commando to an important meeting, NB: don't wear a skirt."
+"If you are ever in doubt about whether or not to wash your hair: Wash it."
 ```
 
 ### Background 💪
