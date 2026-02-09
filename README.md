@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"No "brand" is your friend."
+"Try going commando to an important meeting, NB: don't wear a skirt."
 ```
 
 ### Background 💪
