@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"You have as many hours in a day as the people you admire most."
+"You can have too much of a good thing."
 ```
 
 ### Background 💪
