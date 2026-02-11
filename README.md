@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Life is short enough, don't race to the finish."
+"A common regret in life is wishing one had the courage to be ones true self."
 ```
 
 ### Background 💪
