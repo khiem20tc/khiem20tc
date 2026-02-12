@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Mercy is the better part of justice."
+"You will always regret the round of Tequila."
 ```
 
 ### Background 💪
