@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"One of the top five regrets people have is that they didn't stay in contact with friends."
+"If you're going bald, don't comb your hair over your bald patch."
 ```
 
 ### Background 💪
