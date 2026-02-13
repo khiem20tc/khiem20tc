@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Try buying a coffee for the creator of a free public API, now and then."
+"Being kind is more rewarding than being right."
 ```
 
 ### Background 💪
