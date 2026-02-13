@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Life can be a lot more interesting inside your head."
+"Try buying a coffee for the creator of a free public API, now and then."
 ```
 
 ### Background 💪
