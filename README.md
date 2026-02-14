@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"You spend half your life asleep or in bed. It's worth spending money on a good mattress, decent pillows and a comfy duvet."
+"The most important thing is the thing most easily forgotten."
 ```
 
 ### Background 💪
