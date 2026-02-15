@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Giving someone a hug can be mutually rewarding. Try to give at least one hug a day to someone."
+"Don't cross the streams."
 ```
 
 ### Background 💪
