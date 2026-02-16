@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Do, or do not. There is no try."
+"Don't eat non-snow-coloured snow."
 ```
 
 ### Background 💪
