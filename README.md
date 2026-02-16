@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Remedy tickly coughs with a drink of honey, lemon and water as hot as you can take."
+"Your smile could make someone's day, don't forget to wear it."
 ```
 
 ### Background 💪
