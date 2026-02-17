@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Cars are bad investments."
+"Never write in an email to someone, something which you wouldn't say to that person's face."
 ```
 
 ### Background 💪
