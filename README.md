@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"You will always regret the round of Tequila."
+"Don't eat anything your grandparents wouldn't recognise as food."
 ```
 
 ### Background 💪
