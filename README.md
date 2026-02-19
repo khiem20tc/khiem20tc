@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Do a bit more for your friends."
+"Turn jeans inside out when washing them to help preserve their colour."
 ```
 
 ### Background 💪
