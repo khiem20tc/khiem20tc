@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Big things have small beginnings."
+"Most things done in secrecy are better left undone."
 ```
 
 ### Background 💪
