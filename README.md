@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"If you want to be happily married, marry a happy person."
+"When hugging, hug with both arms and apply reasonable, affectionate pressure."
 ```
 
 ### Background 💪
