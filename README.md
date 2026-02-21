@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Respect your elders."
+"Everything in moderation, including moderation itself."
 ```
 
 ### Background 💪
