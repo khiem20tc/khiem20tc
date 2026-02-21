@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Everything in moderation, including moderation itself."
+"If you are feeling down, try holding a pencil between your top lip and your nose for five minutes."
 ```
 
 ### Background 💪
