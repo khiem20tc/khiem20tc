@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"True happiness always resides in the quest."
+"Build something out of LEGO."
 ```
 
 ### Background 💪
