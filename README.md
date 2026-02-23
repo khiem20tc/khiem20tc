@@ -79,11 +79,11 @@ Here are some ideas to get you started:
 # My recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [What’s going on with Blockchain in 2026?](kevinbkdev.vercel.app/blog/blockchain-2025)
-- [I was hacked 2,500$ from hot wallets](kevinbkdev.vercel.app/blog/crypto-hack)
-- [what crypto VCs actually want in founders &lpar;but won&#39;t tell you&rpar;](kevinbkdev.vercel.app/blog/crypto-vc)
-- [Aligning Software Architecture with Business Models in 2025 — My Thoughts](kevinbkdev.vercel.app/blog/architecture-2025)
-- [2024 - Year in Review](kevinbkdev.vercel.app/blog/review-2024)
+- [What’s going on with Blockchain in 2026?](https://kevinbkdev.vercel.app/blog/blockchain-2025)
+- [I was hacked 2,500$ from hot wallets](https://kevinbkdev.vercel.app/blog/crypto-hack)
+- [what crypto VCs actually want in founders &lpar;but won&#39;t tell you&rpar;](https://kevinbkdev.vercel.app/blog/crypto-vc)
+- [Aligning Software Architecture with Business Models in 2025 — My Thoughts](https://kevinbkdev.vercel.app/blog/architecture-2025)
+- [2024 - Year in Review](https://kevinbkdev.vercel.app/blog/review-2024)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
