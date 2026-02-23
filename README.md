@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Most things are not as bad as you think they are."
+"Try to not compliment people on things they don't control."
 ```
 
 ### Background 💪
