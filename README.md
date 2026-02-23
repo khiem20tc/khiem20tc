@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Accentuate the positive, eliminate the negative."
+"Walking is a perfectly valid solution to traffic congestion problems."
 ```
 
 ### Background 💪
