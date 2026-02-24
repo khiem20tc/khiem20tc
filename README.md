@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Don't ever name files or folders using the word "Final"."
+"Most things look better when you put them in a circle."
 ```
 
 ### Background 💪
