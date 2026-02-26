@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Don't give a speech. Put on a show."
+"Some people would be better off if they took their own advice."
 ```
 
 ### Background 💪
