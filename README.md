@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Don't give to others advice which you wouldn't follow."
+"The most delicious cocktails often have the highest alcohol content. Always pace yourself to preserve your dignity."
 ```
 
 ### Background 💪
