@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Good advice is something a man gives when he is too old to set a bad example."
+"If you are feeling down, try holding a pencil between your top lip and your nose for five minutes."
 ```
 
 ### Background 💪
