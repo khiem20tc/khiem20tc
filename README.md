@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Try to not compliment people on things they don't control."
+"Good advice is something a man gives when he is too old to set a bad example."
 ```
 
 ### Background 💪
