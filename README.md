@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Your smile could make someone's day, don't forget to wear it."
+"Try to not compliment people on things they don't control."
 ```
 
 ### Background 💪
