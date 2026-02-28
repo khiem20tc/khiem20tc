@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"You will always regret the round of Tequila."
+"Some of life's best lessons are learnt at the worst times."
 ```
 
 ### Background 💪
