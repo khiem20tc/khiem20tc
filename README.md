@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Eliminate the unnecessary."
+"As things get closer to the light, the shadows get darker."
 ```
 
 ### Background 💪
