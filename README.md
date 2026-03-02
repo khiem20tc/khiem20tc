@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"When having a clear out, ask yourself if an item has any financial, practical or sentimental value. If not, chuck it."
+"Measure twice, cut once."
 ```
 
 ### Background 💪
