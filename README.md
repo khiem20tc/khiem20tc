@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Good advice is something a man gives when he is too old to set a bad example."
+"Build something out of LEGO."
 ```
 
 ### Background 💪
