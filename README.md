@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Exercise in the rain can really make you feel alive."
+"Don't always believe what you think."
 ```
 
 ### Background 💪
