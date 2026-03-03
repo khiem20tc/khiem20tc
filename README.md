@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Build something out of LEGO."
+"Never pay full price for a sofa at DFS."
 ```
 
 ### Background 💪
