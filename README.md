@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Don't always believe what you think."
+"You don't need to floss all of your teeth. Only the ones you want to keep."
 ```
 
 ### Background 💪
