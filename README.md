@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"You don't need to floss all of your teeth. Only the ones you want to keep."
+"Sometimes it's best to ignore other people's advice."
 ```
 
 ### Background 💪
