@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Sing in the shower."
+"Value the people in your life."
 ```
 
 ### Background 💪
