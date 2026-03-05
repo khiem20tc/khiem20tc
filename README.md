@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Brush your teeth the moment you get up."
+"If you don't want something to be public, don't post it on the Internet."
 ```
 
 ### Background 💪
