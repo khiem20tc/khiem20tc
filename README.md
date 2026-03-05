@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Don't take it personally."
+"Brush your teeth the moment you get up."
 ```
 
 ### Background 💪
