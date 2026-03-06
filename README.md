@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"If you have grandparents or parents - Talk to them more. Ask them about their life experiences."
+"Drink a glass of water before meals."
 ```
 
 ### Background 💪
