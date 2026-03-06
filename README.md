@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Drink a glass of water before meals."
+"If you can't do anything about it, there's no point in worrying about it."
 ```
 
 ### Background 💪
