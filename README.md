@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Value the people in your life."
+"If you have grandparents or parents - Talk to them more. Ask them about their life experiences."
 ```
 
 ### Background 💪
