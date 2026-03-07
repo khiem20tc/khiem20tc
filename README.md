@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"If it ain't broke don't fix it."
+"Never set an alarm clock unless you know how to switch it off"
 ```
 
 ### Background 💪
