@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Never set an alarm clock unless you know how to switch it off"
+"Value the people in your life."
 ```
 
 ### Background 💪
