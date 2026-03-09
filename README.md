@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Sometimes it's best to ignore other people's advice."
+"It's not about who likes you, it's about who you like."
 ```
 
 ### Background 💪
