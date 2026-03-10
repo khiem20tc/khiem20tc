@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Make choices and dont look back."
+"Mercy is the better part of justice."
 ```
 
 ### Background 💪
