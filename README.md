@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Some people would be better off if they took their own advice."
+"When you look around and don't see anyone you respect, its time to leave."
 ```
 
 ### Background 💪
