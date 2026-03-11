@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Don't always rely on your comforts."
+"If you cannot unscrew the lid of a jar, try placing a rubber band around its circumference for extra grip."
 ```
 
 ### Background 💪
