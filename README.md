@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Value the people in your life."
+"Don't let the bastards grind you down."
 ```
 
 ### Background 💪
