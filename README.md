@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Everybody makes mistakes."
+"Everything matters, but nothing matters that much."
 ```
 
 ### Background 💪
