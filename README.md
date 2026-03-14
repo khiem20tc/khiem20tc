@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Everything matters, but nothing matters that much."
+"Try to not compliment people on things they don't control."
 ```
 
 ### Background 💪
