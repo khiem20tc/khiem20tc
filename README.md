@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Try to not compliment people on things they don't control."
+"Respect your elders."
 ```
 
 ### Background 💪
