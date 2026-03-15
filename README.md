@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Don't be afraid of silly ideas."
+"Mercy is the better part of justice."
 ```
 
 ### Background 💪
