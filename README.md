@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Mercy is the better part of justice."
+"If you don't like the opinion you've been given, get another one."
 ```
 
 ### Background 💪
