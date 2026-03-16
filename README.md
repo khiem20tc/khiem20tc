@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"The higher up you are in a company, the more likely it is that your boss is a psychopath."
+"If you find yourself distressed about something, ask yourself if it will still matter tomorrow or next week or next month."
 ```
 
 ### Background 💪
