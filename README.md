@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Everything in moderation, including moderation itself."
+"Big things have small beginnings."
 ```
 
 ### Background 💪
