@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Big things have small beginnings."
+"Turn jeans inside out when washing them to help preserve their colour."
 ```
 
 ### Background 💪
