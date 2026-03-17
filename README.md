@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Don't give to others advice which you wouldn't follow."
+"If you cannot unscrew the lid of a jar, try placing a rubber band around its circumference for extra grip."
 ```
 
 ### Background 💪
