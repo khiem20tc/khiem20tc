@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Lemon and salt works wonders on tarnished brass."
+"Always block trolls."
 ```
 
 ### Background 💪
