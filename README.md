@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Try to pay at least one person a compliment every day."
+"Do something selfless."
 ```
 
 ### Background 💪
