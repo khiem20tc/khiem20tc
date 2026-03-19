@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Pedantry is fine, unless you're on the receiving end. And not a pedant."
+"Try to pay at least one person a compliment every day."
 ```
 
 ### Background 💪
