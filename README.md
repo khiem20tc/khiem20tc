@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Exercise in the rain can really make you feel alive."
+"Pedantry is fine, unless you're on the receiving end. And not a pedant."
 ```
 
 ### Background 💪
