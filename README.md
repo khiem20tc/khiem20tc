@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Tell it like it is."
+"The quieter you become, the more you can hear."
 ```
 
 ### Background 💪
