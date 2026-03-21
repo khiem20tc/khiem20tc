@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"The quieter you become, the more you can hear."
+"Give up your seat for someone who needs it."
 ```
 
 ### Background 💪
