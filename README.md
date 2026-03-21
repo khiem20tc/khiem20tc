@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"When faced with a choice, do both."
+"Life can be a lot more interesting inside your head."
 ```
 
 ### Background 💪
