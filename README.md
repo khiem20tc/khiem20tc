@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"You can fail at what you don't want. So you might as well take a chance on doing what you love."
+"Take time once in a while to look up at the stars for at least 5 minutes, in order to comprehend your cosmic significance."
 ```
 
 ### Background 💪
