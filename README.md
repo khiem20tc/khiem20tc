@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"A nod is as good as a wink to a blind horse."
+"Do a bit more for your friends."
 ```
 
 ### Background 💪
