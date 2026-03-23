@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Good things come to those who wait."
+"If you've nothing nice to say, say nothing."
 ```
 
 ### Background 💪
