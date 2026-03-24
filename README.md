@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"If you are ever in doubt about whether or not to wash your hair: Wash it."
+"If you don't want something to be public, don't post it on the Internet."
 ```
 
 ### Background 💪
