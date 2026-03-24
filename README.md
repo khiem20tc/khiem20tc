@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"You can have too much of a good thing."
+"If you are ever in doubt about whether or not to wash your hair: Wash it."
 ```
 
 ### Background 💪
