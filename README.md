@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"If you're going bald, don't comb your hair over your bald patch."
+"It is easy to sit up and take notice, what's difficult is getting up and taking action."
 ```
 
 ### Background 💪
