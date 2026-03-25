@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Some of life's best lessons are learnt at the worst times."
+"Don't give a speech. Put on a show."
 ```
 
 ### Background 💪
