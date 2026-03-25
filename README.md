@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Don't give a speech. Put on a show."
+"A common regret in life is wishing one had the courage to be ones true self."
 ```
 
 ### Background 💪
