@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Do not seek praise, seek criticism."
+"Avoid mixing Ginger Nuts with other biscuits, they contaminate. Keep separated."
 ```
 
 ### Background 💪
