@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Accept advice."
+"Fail. Fail again. Fail better."
 ```
 
 ### Background 💪
