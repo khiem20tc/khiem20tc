@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Don't be afraid of silly ideas."
+"If you think your headphones are dying, check the socket for fluff with a straightened paperclip."
 ```
 
 ### Background 💪
