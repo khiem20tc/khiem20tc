@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"If you're feeling tired or anxious, a pint of water will almost always make you feel better."
+"It is easy to sit up and take notice, what's difficult is getting up and taking action."
 ```
 
 ### Background 💪
