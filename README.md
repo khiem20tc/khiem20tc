@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Gratitude is said to be the secret to happiness."
+"If you're feeling tired or anxious, a pint of water will almost always make you feel better."
 ```
 
 ### Background 💪
