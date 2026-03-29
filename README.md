@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"If you have the chance, take it!"
+"Your smile could make someone's day, don't forget to wear it."
 ```
 
 ### Background 💪
