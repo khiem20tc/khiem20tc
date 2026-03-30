@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Only those who attempt the impossible can achieve the absurd."
+"Stop using the term "busy" as an excuse."
 ```
 
 ### Background 💪
