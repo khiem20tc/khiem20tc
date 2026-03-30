@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Learn from your mistakes."
+"Only those who attempt the impossible can achieve the absurd."
 ```
 
 ### Background 💪
