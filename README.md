@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Accentuate the positive, eliminate the negative."
+"Good advice is something a man gives when he is too old to set a bad example."
 ```
 
 ### Background 💪
