@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Some of life's best lessons are learnt at the worst times."
+"If your hair is thinning, try dying your hair a similar tone to your scalp."
 ```
 
 ### Background 💪
