@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Never run a marathon in Crocs."
+"Your smile could make someone's day, don't forget to wear it."
 ```
 
 ### Background 💪
