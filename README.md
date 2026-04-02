@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Your smile could make someone's day, don't forget to wear it."
+"A common regret in life is wishing one hadn't worked so hard."
 ```
 
 ### Background 💪
