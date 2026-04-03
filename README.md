@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"If it ain't broke don't fix it."
+"It's wrong to be right."
 ```
 
 ### Background 💪
