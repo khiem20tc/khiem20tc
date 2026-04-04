@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"It's wrong to be right."
+"Measure twice, cut once."
 ```
 
 ### Background 💪
