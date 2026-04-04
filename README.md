@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Most things look better when you put them in a circle."
+"You don't need to floss all of your teeth. Only the ones you want to keep."
 ```
 
 ### Background 💪
