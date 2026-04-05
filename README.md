@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"When in doubt, just take the next small step."
+"Put a piece of kitchen roll in with your bag of leaves to make them last longer."
 ```
 
 ### Background 💪
