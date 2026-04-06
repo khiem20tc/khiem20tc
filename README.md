@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Don't burn bridges."
+"Don't try and bump start a motorcycle on an icy road."
 ```
 
 ### Background 💪
