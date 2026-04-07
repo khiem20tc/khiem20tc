@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Learn from your mistakes."
+"Everyone has their down days. Don't take it out on innocent bystanders."
 ```
 
 ### Background 💪
