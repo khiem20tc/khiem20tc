@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Everyone has their down days. Don't take it out on innocent bystanders."
+"Never run a marathon in Crocs."
 ```
 
 ### Background 💪
