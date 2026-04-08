@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"If you don't ask, you don't get."
+"Some people would be better off if they took their own advice."
 ```
 
 ### Background 💪
