@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Some people would be better off if they took their own advice."
+"If you think your headphones are dying, check the socket for fluff with a straightened paperclip."
 ```
 
 ### Background 💪
