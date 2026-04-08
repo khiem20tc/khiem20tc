@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"If you think your headphones are dying, check the socket for fluff with a straightened paperclip."
+"When you look around and don't see anyone you respect, its time to leave."
 ```
 
 ### Background 💪
