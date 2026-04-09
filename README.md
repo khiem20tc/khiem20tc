@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"No one knows anyone else in the way you do."
+"Try buying a coffee for the creator of a free public API, now and then."
 ```
 
 ### Background 💪
