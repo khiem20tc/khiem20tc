@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"The sun always shines above the clouds."
+"No one knows anyone else in the way you do."
 ```
 
 ### Background 💪
