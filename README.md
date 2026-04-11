@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Life can be a lot more interesting inside your head."
+"A common regret in life is wishing one hadn't worked so hard."
 ```
 
 ### Background 💪
