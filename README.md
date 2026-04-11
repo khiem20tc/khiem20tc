@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"It's wrong to be right."
+"Life can be a lot more interesting inside your head."
 ```
 
 ### Background 💪
