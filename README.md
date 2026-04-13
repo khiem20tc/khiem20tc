@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"To improve productivity, always have a shittier task to put off."
+"Drink a glass of water before meals."
 ```
 
 ### Background 💪
