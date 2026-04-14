@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"If you cannot unscrew the lid of a jar, try placing a rubber band around its circumference for extra grip."
+"Lemon and salt works wonders on tarnished brass."
 ```
 
 ### Background 💪
