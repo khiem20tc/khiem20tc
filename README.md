@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Life is better when you sing about bananas."
+"If you cannot unscrew the lid of a jar, try placing a rubber band around its circumference for extra grip."
 ```
 
 ### Background 💪
