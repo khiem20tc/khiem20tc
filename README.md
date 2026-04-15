@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Stop procrastinating."
+"Share positive energy."
 ```
 
 ### Background 💪
