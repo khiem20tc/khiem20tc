@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Share positive energy."
+"You will always regret the round of JÃ¤germeister."
 ```
 
 ### Background 💪
