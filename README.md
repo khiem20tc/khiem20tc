@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Don't feed Mogwais after midnight."
+"It always seems impossible, until it's done."
 ```
 
 ### Background 💪
