@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Eat food. Not too much, mostly plants."
+"Don't feed Mogwais after midnight."
 ```
 
 ### Background 💪
