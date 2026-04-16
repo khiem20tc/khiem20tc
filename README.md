@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"It always seems impossible, until it's done."
+"One of the single best things about being an adult, is being able to buy as much LEGO as you want."
 ```
 
 ### Background 💪
