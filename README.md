@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"One of the single best things about being an adult, is being able to buy as much LEGO as you want."
+"Don't always rely on your comforts."
 ```
 
 ### Background 💪
