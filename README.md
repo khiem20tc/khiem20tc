@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"The hardest things to say are usually the most important."
+"Everything matters, but nothing matters that much."
 ```
 
 ### Background 💪
