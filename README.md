@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Don't always rely on your comforts."
+"The hardest things to say are usually the most important."
 ```
 
 ### Background 💪
