@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Everything matters, but nothing matters that much."
+"Work is never as important as you think it is."
 ```
 
 ### Background 💪
