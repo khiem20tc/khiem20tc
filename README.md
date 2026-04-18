@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Eat food. Not too much, mostly plants."
+"Just because you are offended, doesn't mean you are right."
 ```
 
 ### Background 💪
