@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Work is never as important as you think it is."
+"A nod is as good as a wink to a blind horse."
 ```
 
 ### Background 💪
