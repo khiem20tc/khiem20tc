@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Don't always rely on your comforts."
+"Learn to handle criticism."
 ```
 
 ### Background 💪
