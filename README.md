@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Learn to handle criticism."
+"Just because you are offended, doesn't mean you are right."
 ```
 
 ### Background 💪
