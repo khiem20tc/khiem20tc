@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Vinegar is a powerful cleaning agent."
+"For every complex problem there is an answer that is clear, simple, and wrong."
 ```
 
 ### Background 💪
