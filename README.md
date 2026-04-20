@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Life can be a lot more interesting inside your head."
+"Vinegar is a powerful cleaning agent."
 ```
 
 ### Background 💪
