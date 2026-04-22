@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"The quieter you become, the more you can hear."
+"You can have too much of a good thing."
 ```
 
 ### Background 💪
