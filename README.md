@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Why wait until valentines day for a romantic gesture?"
+"The quieter you become, the more you can hear."
 ```
 
 ### Background 💪
