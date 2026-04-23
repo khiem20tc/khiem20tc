@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Do something selfless."
+"Never run a marathon in Crocs."
 ```
 
 ### Background 💪
