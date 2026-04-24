@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Never run a marathon in Crocs."
+"When the cistern is filling, the seat is probably still warm."
 ```
 
 ### Background 💪
