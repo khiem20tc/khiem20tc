@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Enjoy a little nonsense now and then."
+"Give up your seat for someone who needs it."
 ```
 
 ### Background 💪
