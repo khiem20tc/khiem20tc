@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"It's unlucky to be superstitious."
+"Age is of no importance, unless you are a cheese."
 ```
 
 ### Background 💪
