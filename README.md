@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Do, or do not. There is no try."
+"If you are ever in doubt about whether or not to wash your hair: Wash it."
 ```
 
 ### Background 💪
