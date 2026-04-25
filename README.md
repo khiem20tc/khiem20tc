@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Age is of no importance, unless you are a cheese."
+"Do, or do not. There is no try."
 ```
 
 ### Background 💪
