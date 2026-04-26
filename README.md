@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Sometimes it's best to ignore other people's advice."
+"Always bet on black."
 ```
 
 ### Background 💪
