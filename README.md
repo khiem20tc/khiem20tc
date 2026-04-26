@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Do something selfless."
+"If you get stuck, try doing the opposite of what the solution requires."
 ```
 
 ### Background 💪
