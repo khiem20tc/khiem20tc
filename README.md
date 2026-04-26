@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"If you get stuck, try doing the opposite of what the solution requires."
+"Sometimes it's best to ignore other people's advice."
 ```
 
 ### Background 💪
