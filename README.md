@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Once you find a really good friend don't do anything that could mess up your friendship."
+"Identify sources of happiness."
 ```
 
 ### Background 💪
