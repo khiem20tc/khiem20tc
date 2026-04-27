@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Identify sources of happiness."
+"You're not that important; it's what you do that counts."
 ```
 
 ### Background 💪
