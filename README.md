@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Do a bit more for your friends."
+"Don't wear clean trousers when walking your dog in the park."
 ```
 
 ### Background 💪
