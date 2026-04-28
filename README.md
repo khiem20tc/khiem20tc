@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Play is the true mother of invention."
+"If you don't want something to be public, don't post it on the Internet."
 ```
 
 ### Background 💪
