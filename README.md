@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Never set an alarm clock unless you know how to switch it off"
+"If you can't do anything about it, there's no point in worrying about it."
 ```
 
 ### Background 💪
