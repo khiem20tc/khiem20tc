@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"When hugging, hug with both arms and apply reasonable, affectionate pressure."
+"Try going commando to an important meeting, NB: don't wear a skirt."
 ```
 
 ### Background 💪
