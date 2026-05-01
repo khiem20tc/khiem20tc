@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"The person who never made a mistake never made anything."
+"Look people in the eye."
 ```
 
 ### Background 💪
