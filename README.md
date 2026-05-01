@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Respect other people's opinions, even when they differ from your own."
+"The person who never made a mistake never made anything."
 ```
 
 ### Background 💪
