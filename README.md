@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Try to do the things that you're incapable of."
+"The person who never made a mistake never made anything."
 ```
 
 ### Background 💪
