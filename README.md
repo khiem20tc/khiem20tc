@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"You can fail at what you don't want. So you might as well take a chance on doing what you love."
+"Don't give to others advice which you wouldn't follow."
 ```
 
 ### Background 💪
