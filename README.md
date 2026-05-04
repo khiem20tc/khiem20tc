@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"The person who never made a mistake never made anything."
+"Today, do not use the words "Kind of", "Sort of" or "Maybe". It either is or it isn't."
 ```
 
 ### Background 💪
