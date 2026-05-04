@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Don't be afraid of silly ideas."
+"Life is short enough, don't race to the finish."
 ```
 
 ### Background 💪
