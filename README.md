@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"No one knows anyone else in the way you do."
+"Always double check you actually attached the file to the email."
 ```
 
 ### Background 💪
