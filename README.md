@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Walking is a perfectly valid solution to traffic congestion problems."
+"If you have grandparents or parents - Talk to them more. Ask them about their life experiences."
 ```
 
 ### Background 💪
