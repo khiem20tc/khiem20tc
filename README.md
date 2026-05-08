@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"The quieter you become, the more you can hear."
+"If you're squashed close to strangers on public transport, try not to be rude to them. No one likes those situations."
 ```
 
 ### Background 💪
