@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"If your hair is thinning, try dying your hair a similar tone to your scalp."
+"Never set an alarm clock unless you know how to switch it off"
 ```
 
 ### Background 💪
