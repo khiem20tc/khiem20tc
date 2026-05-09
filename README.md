@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Taking photos with tablet devices looks weird."
+"Try to do the things that you're incapable of."
 ```
 
 ### Background 💪
