@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Try to do the things that you're incapable of."
+"If you've nothing nice to say, say nothing."
 ```
 
 ### Background 💪
