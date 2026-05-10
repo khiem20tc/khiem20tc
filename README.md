@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Do not check work email on your days off."
+"Remember that spiders are more afraid of you, than you are of them."
 ```
 
 ### Background 💪
