@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Remember that spiders are more afraid of you, than you are of them."
+"Lemon and salt works wonders on tarnished brass."
 ```
 
 ### Background 💪
