@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Mercy is the better part of justice."
+"When something goes wrong in life, just shout "plot twist!" and carry on."
 ```
 
 ### Background 💪
