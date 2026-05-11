@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"When something goes wrong in life, just shout "plot twist!" and carry on."
+"If you've nothing nice to say, say nothing."
 ```
 
 ### Background 💪
