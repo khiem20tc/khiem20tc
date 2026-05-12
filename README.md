@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Try making a list."
+"When the cistern is filling, the seat is probably still warm."
 ```
 
 ### Background 💪
