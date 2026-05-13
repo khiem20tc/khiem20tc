@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Stop using the term "busy" as an excuse."
+"When something goes wrong in life, just shout "plot twist!" and carry on."
 ```
 
 ### Background 💪
