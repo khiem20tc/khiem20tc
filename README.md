@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"When something goes wrong in life, just shout "plot twist!" and carry on."
+"Respect your elders."
 ```
 
 ### Background 💪
