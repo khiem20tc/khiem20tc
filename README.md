@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Don't take life too seriously."
+"Stop using the term "busy" as an excuse."
 ```
 
 ### Background 💪
