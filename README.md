@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Make choices and dont look back."
+"Repeat people's names when you meet them."
 ```
 
 ### Background 💪
