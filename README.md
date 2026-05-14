@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Repeat people's names when you meet them."
+"The person who never made a mistake never made anything."
 ```
 
 ### Background 💪
