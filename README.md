@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Never run with scissors."
+"Why wait until valentines day for a romantic gesture?"
 ```
 
 ### Background 💪
