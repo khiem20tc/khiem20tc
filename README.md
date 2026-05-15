@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Never run a marathon in Crocs."
+"Don't let the bastards grind you down."
 ```
 
 ### Background 💪
