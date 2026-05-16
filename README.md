@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Pedantry is fine, unless you're on the receiving end. And not a pedant."
+"You can fail at what you don't want. So you might as well take a chance on doing what you love."
 ```
 
 ### Background 💪
