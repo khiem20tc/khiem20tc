@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Don't always rely on your comforts."
+"Pedantry is fine, unless you're on the receiving end. And not a pedant."
 ```
 
 ### Background 💪
