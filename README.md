@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Avoid mixing Ginger Nuts with other biscuits, they contaminate. Keep separated."
+"Life can be a lot more interesting inside your head."
 ```
 
 ### Background 💪
