@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"As things get closer to the light, the shadows get darker."
+"You never really grow up."
 ```
 
 ### Background 💪
