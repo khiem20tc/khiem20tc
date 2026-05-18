@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"You never really grow up."
+"Everybody makes mistakes."
 ```
 
 ### Background 💪
