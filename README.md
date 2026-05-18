@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Life can be a lot more interesting inside your head."
+"When in doubt, just take the next small step."
 ```
 
 ### Background 💪
