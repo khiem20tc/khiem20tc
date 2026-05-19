@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Everybody makes mistakes."
+"Don't be afraid to ask questions."
 ```
 
 ### Background 💪
