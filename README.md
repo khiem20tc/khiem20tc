@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Hold the door open for the next person."
+"Keep it simple."
 ```
 
 ### Background 💪
