@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"You have as many hours in a day as the people you admire most."
+"Try to not compliment people on things they don't control."
 ```
 
 ### Background 💪
