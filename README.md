@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Accentuate the positive, eliminate the negative."
+"You have as many hours in a day as the people you admire most."
 ```
 
 ### Background 💪
