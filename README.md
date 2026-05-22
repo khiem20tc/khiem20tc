@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Quality beats quantity."
+"One of the single best things about being an adult, is being able to buy as much LEGO as you want."
 ```
 
 ### Background 💪
