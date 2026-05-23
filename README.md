@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Do, or do not. There is no try."
+"No one knows anyone else in the way you do."
 ```
 
 ### Background 💪
