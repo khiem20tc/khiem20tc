@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"The best sex is fun."
+"Do, or do not. There is no try."
 ```
 
 ### Background 💪
