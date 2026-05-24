@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"For every complex problem there is an answer that is clear, simple, and wrong."
+"The number of vampires in the average home, is directly proportional to the amount of garlic bread in the fridge."
 ```
 
 ### Background 💪
