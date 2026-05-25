@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Mercy is the better part of justice."
+"Don't promise what you can't deliver."
 ```
 
 ### Background 💪
