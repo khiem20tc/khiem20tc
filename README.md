@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Stop procrastinating."
+"Never cut your own fringe."
 ```
 
 ### Background 💪
