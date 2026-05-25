@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Don't feed Mogwais after midnight."
+"Mercy is the better part of justice."
 ```
 
 ### Background 💪
