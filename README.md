@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Never cut your own fringe."
+"Don't feed Mogwais after midnight."
 ```
 
 ### Background 💪
