@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"If you are ever in doubt about whether or not to wash your hair: Wash it."
+"The person who never made a mistake never made anything."
 ```
 
 ### Background 💪
