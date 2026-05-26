@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"The person who never made a mistake never made anything."
+"When you look around and don't see anyone you respect, its time to leave."
 ```
 
 ### Background 💪
