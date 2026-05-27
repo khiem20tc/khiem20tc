@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"When hugging, hug with both arms and apply reasonable, affectionate pressure."
+"Measure twice, cut once."
 ```
 
 ### Background 💪
