@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Don't wear clean trousers when walking your dog in the park."
+"When hugging, hug with both arms and apply reasonable, affectionate pressure."
 ```
 
 ### Background 💪
