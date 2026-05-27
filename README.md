@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Measure twice, cut once."
+"Never waste an opportunity to tell someone you love them."
 ```
 
 ### Background 💪
