@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Try using an old idea."
+"Remember that spiders are more afraid of you, than you are of them."
 ```
 
 ### Background 💪
