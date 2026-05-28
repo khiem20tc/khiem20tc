@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Don't ever name files or folders using the word "Final"."
+"When something goes wrong in life, just shout "plot twist!" and carry on."
 ```
 
 ### Background 💪
