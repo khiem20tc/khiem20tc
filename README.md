@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"You will always regret the round of JÃ¤germeister."
+"A long walk alone with some time to think, can work wonders."
 ```
 
 ### Background 💪
