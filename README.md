@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"No "brand" is your friend."
+"You will always regret the round of JÃ¤germeister."
 ```
 
 ### Background 💪
