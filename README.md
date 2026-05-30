@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Gratitude is said to be the secret to happiness."
+"Value the people in your life."
 ```
 
 ### Background 💪
