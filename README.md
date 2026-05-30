@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Value the people in your life."
+"If you are feeling down, try holding a pencil between your top lip and your nose for five minutes."
 ```
 
 ### Background 💪
