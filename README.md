@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Happiness is a journey, not a destination."
+"Never waste an opportunity to tell someone you love them."
 ```
 
 ### Background 💪
