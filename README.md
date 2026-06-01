@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Some people would be better off if they took their own advice."
+"State the problem in words as clearly as possible."
 ```
 
 ### Background 💪
