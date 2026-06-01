@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Build something out of LEGO."
+"Don't always rely on your comforts."
 ```
 
 ### Background 💪
