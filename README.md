@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"You're not that important; it's what you do that counts."
+"Build something out of LEGO."
 ```
 
 ### Background 💪
