@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"State the problem in words as clearly as possible."
+"You're not that important; it's what you do that counts."
 ```
 
 ### Background 💪
