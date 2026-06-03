@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"YOLO"
+"Do something selfless."
 ```
 
 ### Background 💪
