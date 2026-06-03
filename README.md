@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Accentuate the positive, eliminate the negative."
+"To improve productivity, always have a shittier task to put off."
 ```
 
 ### Background 💪
