@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Do something selfless."
+"Accentuate the positive, eliminate the negative."
 ```
 
 ### Background 💪
