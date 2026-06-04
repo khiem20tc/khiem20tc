@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"No one knows anyone else in the way you do."
+"To improve productivity, always have a shittier task to put off."
 ```
 
 ### Background 💪
