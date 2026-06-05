@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"If you're going bald, don't comb your hair over your bald patch."
+"Rule number 1: Try not to die. Rule number 2: Don't be a dick."
 ```
 
 ### Background 💪
