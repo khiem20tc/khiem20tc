@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"If you want to be happily married, marry a happy person."
+"The sun always shines above the clouds."
 ```
 
 ### Background 💪
