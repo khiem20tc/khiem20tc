@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Life is better when you sing about bananas."
+"If you want to be happily married, marry a happy person."
 ```
 
 ### Background 💪
