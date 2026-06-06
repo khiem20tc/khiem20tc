@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"The sun always shines above the clouds."
+"Good things come to those who wait."
 ```
 
 ### Background 💪
