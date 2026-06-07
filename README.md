@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Good things come to those who wait."
+"Remember that spiders are more afraid of you, than you are of them."
 ```
 
 ### Background 💪
