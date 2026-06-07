@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Always get two ciders."
+"Don't give to others advice which you wouldn't follow."
 ```
 
 ### Background 💪
