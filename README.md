@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"You never really grow up."
+"Don't always believe what you think."
 ```
 
 ### Background 💪
