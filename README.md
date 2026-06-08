@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Don't give to others advice which you wouldn't follow."
+"You never really grow up."
 ```
 
 ### Background 💪
