@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"You will always regret the round of JÃ¤germeister."
+"The higher up you are in a company, the more likely it is that your boss is a psychopath."
 ```
 
 ### Background 💪
