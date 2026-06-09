@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Try making a list."
+"Exercise in the rain can really make you feel alive."
 ```
 
 ### Background 💪
