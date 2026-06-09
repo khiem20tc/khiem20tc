@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Exercise in the rain can really make you feel alive."
+"You will always regret the round of JÃ¤germeister."
 ```
 
 ### Background 💪
