@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Good advice is something a man gives when he is too old to set a bad example."
+"There is no reason at all to believe that White Wine is any different to water when it comes to removing Red Wine stains."
 ```
 
 ### Background 💪
