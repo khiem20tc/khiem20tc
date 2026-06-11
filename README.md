@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Always get two ciders."
+"Work is never as important as you think it is."
 ```
 
 ### Background 💪
