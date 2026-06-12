@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Don't assume anything is possible or impossible until you've asked the people who will be doing the work."
+"The person who never made a mistake never made anything."
 ```
 
 ### Background 💪
