@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Brush your teeth the moment you get up."
+"Walking is a perfectly valid solution to traffic congestion problems."
 ```
 
 ### Background 💪
