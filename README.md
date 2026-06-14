@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Walking is a perfectly valid solution to traffic congestion problems."
+"Don't assume anything is possible or impossible until you've asked the people who will be doing the work."
 ```
 
 ### Background 💪
