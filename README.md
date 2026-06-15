@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Taking photos with tablet devices looks weird."
+"Do not seek praise, seek criticism."
 ```
 
 ### Background 💪
