@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"State the problem in words as clearly as possible."
+"Taking photos with tablet devices looks weird."
 ```
 
 ### Background 💪
