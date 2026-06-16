@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Don't eat anything your grandparents wouldn't recognise as food."
+"Most things done in secrecy are better left undone."
 ```
 
 ### Background 💪
