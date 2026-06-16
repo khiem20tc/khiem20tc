@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Don't be afraid to ask questions."
+"The best nights out are when people around you are simply having fun."
 ```
 
 ### Background 💪
