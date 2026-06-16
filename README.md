@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Do not seek praise, seek criticism."
+"Don't be afraid to ask questions."
 ```
 
 ### Background 💪
