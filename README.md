@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Most things done in secrecy are better left undone."
+"Try to pay at least one person a compliment every day."
 ```
 
 ### Background 💪
