@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Work is never as important as you think it is."
+"When having a clear out, ask yourself if an item has any financial, practical or sentimental value. If not, chuck it."
 ```
 
 ### Background 💪
