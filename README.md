@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"When in doubt, just take the next small step."
+"Fail. Fail again. Fail better."
 ```
 
 ### Background 💪
