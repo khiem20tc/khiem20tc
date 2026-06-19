@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"A common regret in life is wishing one hadn't worked so hard."
+"Always double check you actually attached the file to the email."
 ```
 
 ### Background 💪
