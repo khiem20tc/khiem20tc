@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Accentuate the positive, eliminate the negative."
+"Life can be a lot more interesting inside your head."
 ```
 
 ### Background 💪
