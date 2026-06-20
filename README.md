@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Fail. Fail again. Fail better."
+"Walking is a perfectly valid solution to traffic congestion problems."
 ```
 
 ### Background 💪
