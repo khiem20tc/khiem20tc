@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Plant a tree."
+"If you're going bald, don't comb your hair over your bald patch."
 ```
 
 ### Background 💪
