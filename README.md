@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Do a bit more for your friends."
+"Don't use Excel or Powerpoint documents for your basic word processing needs."
 ```
 
 ### Background 💪
