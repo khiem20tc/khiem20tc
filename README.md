@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Try buying a coffee for the creator of a free public API, now and then."
+"Sarcasm is the lowest form of wit. Employ correctly with apt timing."
 ```
 
 ### Background 💪
