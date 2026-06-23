@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"You're not as fat as you think you are."
+"Lemon and salt works wonders on tarnished brass."
 ```
 
 ### Background 💪
