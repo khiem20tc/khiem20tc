@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Try going commando to an important meeting, NB: don't wear a skirt."
+"Try buying a coffee for the creator of a free public API, now and then."
 ```
 
 ### Background 💪
