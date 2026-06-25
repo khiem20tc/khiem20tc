@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Life is short enough, don't race to the finish."
+"Remedy tickly coughs with a drink of honey, lemon and water as hot as you can take."
 ```
 
 ### Background 💪
