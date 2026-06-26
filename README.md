@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Always bet on black."
+"It always seems impossible, until it's done."
 ```
 
 ### Background 💪
