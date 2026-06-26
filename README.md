@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Most things look better when you put them in a circle."
+"Try making a list."
 ```
 
 ### Background 💪
