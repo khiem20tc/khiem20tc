@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Don't be afraid to ask questions."
+"Most things look better when you put them in a circle."
 ```
 
 ### Background 💪
