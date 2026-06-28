@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Learn to handle criticism."
+"Have a firm handshake."
 ```
 
 ### Background 💪
