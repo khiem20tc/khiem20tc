@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Everything matters, but nothing matters that much."
+"Sarcasm is the lowest form of wit. Employ correctly with apt timing."
 ```
 
 ### Background 💪
