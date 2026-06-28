@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Have a firm handshake."
+"Everything matters, but nothing matters that much."
 ```
 
 ### Background 💪
