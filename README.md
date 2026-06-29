@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Fail. Fail again. Fail better."
+"The best nights out are when people around you are simply having fun."
 ```
 
 ### Background 💪
