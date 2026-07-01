@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Do not compare yourself with others."
+"Being kind is more rewarding than being right."
 ```
 
 ### Background 💪
