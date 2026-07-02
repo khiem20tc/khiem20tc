@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Being kind is more rewarding than being right."
+"If you don't ask, you don't get."
 ```
 
 ### Background 💪
