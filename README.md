@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"If you don't ask, you don't get."
+"Life is short enough, don't race to the finish."
 ```
 
 ### Background 💪
