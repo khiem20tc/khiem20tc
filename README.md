@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Life is short enough, don't race to the finish."
+"Your smile could make someone's day, don't forget to wear it."
 ```
 
 ### Background 💪
