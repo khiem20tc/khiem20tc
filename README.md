@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Your smile could make someone's day, don't forget to wear it."
+"Avoid mixing Ginger Nuts with other biscuits, they contaminate. Keep separated."
 ```
 
 ### Background 💪
