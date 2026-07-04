@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Mercy is the better part of justice."
+"Try to pay at least one person a compliment every day."
 ```
 
 ### Background 💪
