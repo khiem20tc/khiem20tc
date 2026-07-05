@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Respect your elders."
+"A nod is as good as a wink to a blind horse."
 ```
 
 ### Background 💪
