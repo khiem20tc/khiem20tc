@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"If you are feeling down, try holding a pencil between your top lip and your nose for five minutes."
+"The most delicious cocktails often have the highest alcohol content. Always pace yourself to preserve your dignity."
 ```
 
 ### Background 💪
