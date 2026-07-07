@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Don't waste food."
+"Sometimes, you just need to say sorry. Even if it's not your fault."
 ```
 
 ### Background 💪
