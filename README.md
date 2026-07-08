@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Don't take it personally."
+"When the cistern is filling, the seat is probably still warm."
 ```
 
 ### Background 💪
