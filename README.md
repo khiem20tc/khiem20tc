@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Visitors are like fish: As much as you might like them, after three days they start to smell."
+"Don't take it personally."
 ```
 
 ### Background 💪
