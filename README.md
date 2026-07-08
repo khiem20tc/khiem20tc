@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"The person who never made a mistake never made anything."
+"A common regret in life is wishing one had the courage to be ones true self."
 ```
 
 ### Background 💪
