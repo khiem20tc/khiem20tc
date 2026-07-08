@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"A common regret in life is wishing one had the courage to be ones true self."
+"Visitors are like fish: As much as you might like them, after three days they start to smell."
 ```
 
 ### Background 💪
