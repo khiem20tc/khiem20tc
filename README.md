@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"As you get older, learn never to trust a fart."
+"Rule number 1: Try not to die. Rule number 2: Don't be a dick."
 ```
 
 ### Background 💪
