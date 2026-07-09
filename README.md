@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"If you've nothing nice to say, say nothing."
+"As you get older, learn never to trust a fart."
 ```
 
 ### Background 💪
