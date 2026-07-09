@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"When the cistern is filling, the seat is probably still warm."
+"Always double check you actually attached the file to the email."
 ```
 
 ### Background 💪
