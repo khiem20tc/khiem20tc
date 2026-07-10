@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Rule number 1: Try not to die. Rule number 2: Don't be a dick."
+"Lemon and salt works wonders on tarnished brass."
 ```
 
 ### Background 💪
