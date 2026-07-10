@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Always bet on black."
+"Alway do anything for love, but don't do that."
 ```
 
 ### Background 💪
