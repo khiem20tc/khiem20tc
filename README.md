@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"It's wrong to be right."
+"Look people in the eye."
 ```
 
 ### Background 💪
