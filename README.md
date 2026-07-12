@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Play is the true mother of invention."
+"Look people in the eye."
 ```
 
 ### Background 💪
