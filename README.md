@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Don't be afraid of silly ideas."
+"You will always regret the round of JÃ¤germeister."
 ```
 
 ### Background 💪
