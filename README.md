@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Accept advice."
+"Most things are not as bad as you think they are."
 ```
 
 ### Background 💪
