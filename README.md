@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Once in a while, eat some sweets you used to enjoy when you were younger."
+"Life can be a lot more interesting inside your head."
 ```
 
 ### Background 💪
