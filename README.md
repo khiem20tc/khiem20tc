@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"It always seems impossible, until it's done."
+"Things are just things. Don't get too attached to them."
 ```
 
 ### Background 💪
