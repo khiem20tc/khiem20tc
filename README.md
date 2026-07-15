@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Life can be a lot more interesting inside your head."
+"If you think your headphones are dying, check the socket for fluff with a straightened paperclip."
 ```
 
 ### Background 💪
