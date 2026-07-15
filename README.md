@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Things are just things. Don't get too attached to them."
+"The higher up you are in a company, the more likely it is that your boss is a psychopath."
 ```
 
 ### Background 💪
