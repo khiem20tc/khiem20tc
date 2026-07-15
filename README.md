@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"If you think your headphones are dying, check the socket for fluff with a straightened paperclip."
+"It always seems impossible, until it's done."
 ```
 
 ### Background 💪
