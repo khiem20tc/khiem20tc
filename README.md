@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"State the problem in words as clearly as possible."
+"If you need cheering up, try searching online for photos of kittens."
 ```
 
 ### Background 💪
