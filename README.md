@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"A problem shared is a problem halved."
+"State the problem in words as clearly as possible."
 ```
 
 ### Background 💪
