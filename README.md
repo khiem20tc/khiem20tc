@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"The sun always shines above the clouds."
+"A problem shared is a problem halved."
 ```
 
 ### Background 💪
