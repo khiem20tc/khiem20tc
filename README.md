@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"If you need cheering up, try searching online for photos of kittens."
+"If you've nothing nice to say, say nothing."
 ```
 
 ### Background 💪
