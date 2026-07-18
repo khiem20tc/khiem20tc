@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Try using an old idea."
+"Keep it simple."
 ```
 
 ### Background 💪
