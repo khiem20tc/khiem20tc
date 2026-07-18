@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Learn from your mistakes."
+"Try using an old idea."
 ```
 
 ### Background 💪
