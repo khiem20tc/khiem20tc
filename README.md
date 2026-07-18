@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Keep it simple."
+"Don't take it personally."
 ```
 
 ### Background 💪
