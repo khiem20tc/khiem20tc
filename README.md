@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"If it ain't broke don't fix it."
+"Don't feed Mogwais after midnight."
 ```
 
 ### Background 💪
