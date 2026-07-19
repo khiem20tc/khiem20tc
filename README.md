@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Alway do anything for love, but don't do that."
+"You never really grow up."
 ```
 
 ### Background 💪
