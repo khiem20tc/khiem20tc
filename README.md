@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Don't take it personally."
+"Alway do anything for love, but don't do that."
 ```
 
 ### Background 💪
