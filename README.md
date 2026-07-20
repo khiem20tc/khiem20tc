@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Never run with scissors."
+"You spend half your life asleep or in bed. It's worth spending money on a good mattress, decent pillows and a comfy duvet."
 ```
 
 ### Background 💪
