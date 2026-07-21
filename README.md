@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Remember that spiders are more afraid of you, than you are of them."
+"If you can't do anything about it, there's no point in worrying about it."
 ```
 
 ### Background 💪
