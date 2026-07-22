@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"When something goes wrong in life, just shout "plot twist!" and carry on."
+"Good advice is something a man gives when he is too old to set a bad example."
 ```
 
 ### Background 💪
