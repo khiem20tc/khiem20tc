@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Good advice is something a man gives when he is too old to set a bad example."
+"Today, do not use the words "Kind of", "Sort of" or "Maybe". It either is or it isn't."
 ```
 
 ### Background 💪
