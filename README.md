@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"When faced with a choice, do both."
+"No "brand" is your friend."
 ```
 
 ### Background 💪
