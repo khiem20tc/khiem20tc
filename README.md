@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"When something goes wrong in life, just shout "plot twist!" and carry on."
+"One of the single best things about being an adult, is being able to buy as much LEGO as you want."
 ```
 
 ### Background 💪
