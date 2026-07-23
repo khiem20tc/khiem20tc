@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"No "brand" is your friend."
+"True happiness always resides in the quest."
 ```
 
 ### Background 💪
