@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"If you don't want something to be public, don't post it on the Internet."
+"Most things are not as bad as you think they are."
 ```
 
 ### Background 💪
