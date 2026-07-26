@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Remember that spiders are more afraid of you, than you are of them."
+"Most things look better when you put them in a circle."
 ```
 
 ### Background 💪
