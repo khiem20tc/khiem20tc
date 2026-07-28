@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Try to do the things that you're incapable of."
+"Don't try and bump start a motorcycle on an icy road."
 ```
 
 ### Background 💪
