@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"If you've nothing nice to say, say nothing."
+"Only those who attempt the impossible can achieve the absurd."
 ```
 
 ### Background 💪
