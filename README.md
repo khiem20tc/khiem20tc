@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Value the people in your life."
+"Only those who attempt the impossible can achieve the absurd."
 ```
 
 ### Background 💪
