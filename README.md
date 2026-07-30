@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"A common regret in life is wishing one hadn't worked so hard."
+"If you want to be happily married, marry a happy person."
 ```
 
 ### Background 💪
