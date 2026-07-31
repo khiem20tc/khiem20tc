@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"If you can't do anything about it, there's no point in worrying about it."
+"Once in a while, eat some sweets you used to enjoy when you were younger."
 ```
 
 ### Background 💪
