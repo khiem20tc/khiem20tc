@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Once in a while, eat some sweets you used to enjoy when you were younger."
+"If you've nothing nice to say, say nothing."
 ```
 
 ### Background 💪
