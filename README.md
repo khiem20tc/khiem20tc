@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Don't put off breaking up with someone when you know you want to. Prolonging the situation only makes it worse."
+"Step 1. Give a shit. Step 2. Don't be a dick. Step 3. Know when to let go."
 ```
 
 ### Background 💪
