@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Being kind is more rewarding than being right."
+"Some of life's best lessons are learnt at the worst times."
 ```
 
 ### Background 💪
