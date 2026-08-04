@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Accentuate the positive, eliminate the negative."
+"If you don't want something to be public, don't post it on the Internet."
 ```
 
 ### Background 💪
