@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"What could you increase? What could you reduce?"
+"When you're looking up at birds flying overhead, keep your mouth closed."
 ```
 
 ### Background 💪
