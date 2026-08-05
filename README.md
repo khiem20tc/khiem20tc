@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Life is better when you sing about bananas."
+"What could you increase? What could you reduce?"
 ```
 
 ### Background 💪
