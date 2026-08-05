@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"If you find yourself distressed about something, ask yourself if it will still matter tomorrow or next week or next month."
+"Life is better when you sing about bananas."
 ```
 
 ### Background 💪
