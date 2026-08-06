@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Sometimes, you just need to say sorry. Even if it's not your fault."
+"Try to do the things that you're incapable of."
 ```
 
 ### Background 💪
