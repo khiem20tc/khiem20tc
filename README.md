@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"When you're looking up at birds flying overhead, keep your mouth closed."
+"Always bet on black."
 ```
 
 ### Background 💪
