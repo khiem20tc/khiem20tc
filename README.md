@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"If you think nobody cares if you're alive, try missing a few payments."
+"Try to not compliment people on things they don't control."
 ```
 
 ### Background 💪
