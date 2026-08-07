@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Try to do the things that you're incapable of."
+"If you think nobody cares if you're alive, try missing a few payments."
 ```
 
 ### Background 💪
