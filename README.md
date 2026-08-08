@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Happiness is a journey, not a destination."
+"For every complex problem there is an answer that is clear, simple, and wrong."
 ```
 
 ### Background 💪
