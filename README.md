@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"For every complex problem there is an answer that is clear, simple, and wrong."
+"Lemon and salt works wonders on tarnished brass."
 ```
 
 ### Background 💪
