@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Quality beats quantity."
+"Look people in the eye."
 ```
 
 ### Background 💪
