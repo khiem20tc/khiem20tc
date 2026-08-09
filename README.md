@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Look people in the eye."
+"If you don't ask, you don't get."
 ```
 
 ### Background 💪
