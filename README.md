@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"The more ideas that you give away, the more ideas that will come to you."
+"Sarcasm is the lowest form of wit. Employ correctly with apt timing."
 ```
 
 ### Background 💪
