@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Being kind is more rewarding than being right."
+"If you can't do anything about it, there's no point in worrying about it."
 ```
 
 ### Background 💪
