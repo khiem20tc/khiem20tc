@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"If you can't do anything about it, there's no point in worrying about it."
+"The more ideas that you give away, the more ideas that will come to you."
 ```
 
 ### Background 💪
