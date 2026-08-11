@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Mercy is the better part of justice."
+"Alway do anything for love, but don't do that."
 ```
 
 ### Background 💪
