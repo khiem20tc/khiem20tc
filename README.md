@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Sing in the shower."
+"Mercy is the better part of justice."
 ```
 
 ### Background 💪
