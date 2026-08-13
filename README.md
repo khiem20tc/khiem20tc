@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Be a good lover."
+"If your hair is thinning, try dying your hair a similar tone to your scalp."
 ```
 
 ### Background 💪
