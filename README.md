@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"If your hair is thinning, try dying your hair a similar tone to your scalp."
+"Sometimes, you just need to say sorry. Even if it's not your fault."
 ```
 
 ### Background 💪
