@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Sometimes, you just need to say sorry. Even if it's not your fault."
+"Some people would be better off if they took their own advice."
 ```
 
 ### Background 💪
