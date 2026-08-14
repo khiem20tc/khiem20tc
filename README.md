@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Some people would be better off if they took their own advice."
+"It is easy to sit up and take notice, what's difficult is getting up and taking action."
 ```
 
 ### Background 💪
