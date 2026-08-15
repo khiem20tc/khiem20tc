@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Don't put off breaking up with someone when you know you want to. Prolonging the situation only makes it worse."
+"If you are ever in doubt about whether or not to wash your hair: Wash it."
 ```
 
 ### Background 💪
