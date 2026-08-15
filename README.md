@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Don't put off breaking up with someone when you know you want to. Prolonging the situation only makes it worse."
+"Alway do anything for love, but don't do that."
 ```
 
 ### Background 💪
