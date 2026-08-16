@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Don't cross the streams."
+"Don't waste food."
 ```
 
 ### Background 💪
