@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Stop procrastinating."
+"Hold the door open for the next person."
 ```
 
 ### Background 💪
