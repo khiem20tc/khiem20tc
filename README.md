@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"You will always regret the round of JÃ¤germeister."
+"Once you find a really good friend don't do anything that could mess up your friendship."
 ```
 
 ### Background 💪
