@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Your smile could make someone's day, don't forget to wear it."
+"There is no reason at all to believe that White Wine is any different to water when it comes to removing Red Wine stains."
 ```
 
 ### Background 💪
