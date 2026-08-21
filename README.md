@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Do not check work email on your days off."
+"Never let your Mother cut your hair."
 ```
 
 ### Background 💪
