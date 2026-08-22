@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Sing in the shower."
+"Sometimes, you just need to say sorry. Even if it's not your fault."
 ```
 
 ### Background 💪
