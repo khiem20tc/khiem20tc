@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Never let your Mother cut your hair."
+"You don't need to floss all of your teeth. Only the ones you want to keep."
 ```
 
 ### Background 💪
