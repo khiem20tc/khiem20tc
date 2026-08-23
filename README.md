@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"A common regret in life is wishing one had the courage to be ones true self."
+"Alway do anything for love, but don't do that."
 ```
 
 ### Background 💪
