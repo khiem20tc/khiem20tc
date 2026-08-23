@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Smile and the world smiles with you. Frown and you're on your own."
+"A common regret in life is wishing one had the courage to be ones true self."
 ```
 
 ### Background 💪
