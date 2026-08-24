@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Tell it like it is."
+"Walking is a perfectly valid solution to traffic congestion problems."
 ```
 
 ### Background 💪
