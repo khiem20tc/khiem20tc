@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"You can have too much of a good thing."
+"Sarcasm is the lowest form of wit. Employ correctly with apt timing."
 ```
 
 ### Background 💪
