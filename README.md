@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Being kind is more rewarding than being right."
+"Respect other people's opinions, even when they differ from your own."
 ```
 
 ### Background 💪
