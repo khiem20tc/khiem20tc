@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Don't promise what you can't deliver."
+"Age is of no importance, unless you are a cheese."
 ```
 
 ### Background 💪
