@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Age is of no importance, unless you are a cheese."
+"When you're at a concert or event, enjoy the moment, enjoy being there. Try leaving your camera in your pocket."
 ```
 
 ### Background 💪
