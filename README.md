@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Just because you are offended, doesn't mean you are right."
+"Turn jeans inside out when washing them to help preserve their colour."
 ```
 
 ### Background 💪
