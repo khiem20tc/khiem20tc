@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Drink a glass of water before meals."
+"Accept advice."
 ```
 
 ### Background 💪
