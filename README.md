@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Most things done in secrecy are better left undone."
+"Plant a tree."
 ```
 
 ### Background 💪
