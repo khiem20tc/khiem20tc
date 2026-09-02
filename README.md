@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"You're not that important; it's what you do that counts."
+"You can have too much of a good thing."
 ```
 
 ### Background 💪
