@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"You can have too much of a good thing."
+"Things are just things. Don't get too attached to them."
 ```
 
 ### Background 💪
