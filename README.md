@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"To cleanly remove the seed from an Avocado, lay a knife firmly across it, and twist."
+"If you find yourself distressed about something, ask yourself if it will still matter tomorrow or next week or next month."
 ```
 
 ### Background 💪
