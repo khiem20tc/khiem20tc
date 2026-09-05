@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Most things look better when you put them in a circle."
+"If you don't want something to be public, don't post it on the Internet."
 ```
 
 ### Background 💪
