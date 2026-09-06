@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"If you don't want something to be public, don't post it on the Internet."
+"Do a bit more for your friends."
 ```
 
 ### Background 💪
