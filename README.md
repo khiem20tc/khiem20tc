@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Do a bit more for your friends."
+"Only those who attempt the impossible can achieve the absurd."
 ```
 
 ### Background 💪
