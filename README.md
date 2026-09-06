@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Only those who attempt the impossible can achieve the absurd."
+"Your smile could make someone's day, don't forget to wear it."
 ```
 
 ### Background 💪
