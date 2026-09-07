@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Don't ever name files or folders using the word "Final"."
+"Do not check work email on your days off."
 ```
 
 ### Background 💪
