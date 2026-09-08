@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Stop procrastinating."
+"The number of vampires in the average home, is directly proportional to the amount of garlic bread in the fridge."
 ```
 
 ### Background 💪
