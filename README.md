@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"True happiness always resides in the quest."
+"A common regret in life is wishing one had the courage to be ones true self."
 ```
 
 ### Background 💪
