@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"The number of vampires in the average home, is directly proportional to the amount of garlic bread in the fridge."
+"When you're at a concert or event, enjoy the moment, enjoy being there. Try leaving your camera in your pocket."
 ```
 
 ### Background 💪
