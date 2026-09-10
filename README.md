@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"You have as many hours in a day as the people you admire most."
+"When having a clear out, ask yourself if an item has any financial, practical or sentimental value. If not, chuck it."
 ```
 
 ### Background 💪
