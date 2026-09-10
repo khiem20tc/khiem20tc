@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Have a firm handshake."
+"You have as many hours in a day as the people you admire most."
 ```
 
 ### Background 💪
