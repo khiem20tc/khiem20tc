@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Be a good lover."
+"Turn jeans inside out when washing them to help preserve their colour."
 ```
 
 ### Background 💪
