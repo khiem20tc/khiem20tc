@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Opinions are like arseholes, everyone has one."
+"Only those who attempt the impossible can achieve the absurd."
 ```
 
 ### Background 💪
