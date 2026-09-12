@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"A long walk alone with some time to think, can work wonders."
+"Always block trolls."
 ```
 
 ### Background 💪
