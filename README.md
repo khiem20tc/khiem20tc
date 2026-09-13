@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Never run with scissors."
+"You will always regret the round of Tequila."
 ```
 
 ### Background 💪
