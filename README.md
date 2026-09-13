@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Opinions are like arseholes, everyone has one."
+"Don't give a speech. Put on a show."
 ```
 
 ### Background 💪
