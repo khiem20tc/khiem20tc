@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"You will always regret the round of Tequila."
+"It's wrong to be right."
 ```
 
 ### Background 💪
