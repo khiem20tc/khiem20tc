@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"If you have the chance, take it!"
+"If you get stuck, try doing the opposite of what the solution requires."
 ```
 
 ### Background 💪
