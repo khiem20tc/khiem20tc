@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Don't drink bleach."
+"Always seek out advice or opinions when making a decision."
 ```
 
 ### Background 💪
