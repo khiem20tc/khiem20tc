@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Always seek out advice or opinions when making a decision."
+"A common regret in life is wishing one hadn't worked so hard."
 ```
 
 ### Background 💪
