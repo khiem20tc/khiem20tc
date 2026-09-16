@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"What could you increase? What could you reduce?"
+"For every complex problem there is an answer that is clear, simple, and wrong."
 ```
 
 ### Background 💪
