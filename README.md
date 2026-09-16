@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"You can fail at what you don't want. So you might as well take a chance on doing what you love."
+"When you're at a concert or event, enjoy the moment, enjoy being there. Try leaving your camera in your pocket."
 ```
 
 ### Background 💪
