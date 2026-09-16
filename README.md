@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"For every complex problem there is an answer that is clear, simple, and wrong."
+"A nod is as good as a wink to a blind horse."
 ```
 
 ### Background 💪
