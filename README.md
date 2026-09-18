@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"If you get stuck, try doing the opposite of what the solution requires."
+"Don't let the bastards grind you down."
 ```
 
 ### Background 💪
