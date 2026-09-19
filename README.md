@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Brush your teeth the moment you get up."
+"Try going commando to an important meeting, NB: don't wear a skirt."
 ```
 
 ### Background 💪
