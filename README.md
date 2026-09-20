@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Don't take life too seriously."
+"Lemon and salt works wonders on tarnished brass."
 ```
 
 ### Background 💪
