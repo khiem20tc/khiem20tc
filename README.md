@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Hold the door open for the next person."
+"State the problem in words as clearly as possible."
 ```
 
 ### Background 💪
