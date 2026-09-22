@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"A common regret in life is wishing one had the courage to be ones true self."
+"Giving someone a hug can be mutually rewarding. Try to give at least one hug a day to someone."
 ```
 
 ### Background 💪
