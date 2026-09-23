@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"To cleanly remove the seed from an Avocado, lay a knife firmly across it, and twist."
+"Try to do the things that you're incapable of."
 ```
 
 ### Background 💪
