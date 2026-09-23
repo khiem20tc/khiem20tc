@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Walking is a perfectly valid solution to traffic congestion problems."
+"To cleanly remove the seed from an Avocado, lay a knife firmly across it, and twist."
 ```
 
 ### Background 💪
