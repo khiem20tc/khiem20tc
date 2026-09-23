@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Don't give a speech. Put on a show."
+"Walking is a perfectly valid solution to traffic congestion problems."
 ```
 
 ### Background 💪
