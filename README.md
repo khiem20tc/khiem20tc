@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Try to do the things that you're incapable of."
+"When hugging, hug with both arms and apply reasonable, affectionate pressure."
 ```
 
 ### Background 💪
