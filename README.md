@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Quality beats quantity."
+"Accentuate the positive, eliminate the negative."
 ```
 
 ### Background 💪
