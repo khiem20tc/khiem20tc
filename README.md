@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Share positive energy."
+"Vinegar is a powerful cleaning agent."
 ```
 
 ### Background 💪
