@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"If you've nothing nice to say, say nothing."
+"You will always regret the round of Tequila."
 ```
 
 ### Background 💪
