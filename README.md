@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Good things come to those who wait."
+"What could you increase? What could you reduce?"
 ```
 
 ### Background 💪
