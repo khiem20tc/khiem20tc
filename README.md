@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Vinegar is a powerful cleaning agent."
+"Taking photos with tablet devices looks weird."
 ```
 
 ### Background 💪
