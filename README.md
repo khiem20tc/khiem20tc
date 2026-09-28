@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Taking photos with tablet devices looks weird."
+"Good things come to those who wait."
 ```
 
 ### Background 💪
