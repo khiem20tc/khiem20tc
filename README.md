@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"What could you increase? What could you reduce?"
+"Mercy is the better part of justice."
 ```
 
 ### Background 💪
