@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"You have as many hours in a day as the people you admire most."
+"A common regret in life is wishing one had the courage to be ones true self."
 ```
 
 ### Background 💪
