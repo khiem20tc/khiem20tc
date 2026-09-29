@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Mercy is the better part of justice."
+"You have as many hours in a day as the people you admire most."
 ```
 
 ### Background 💪
