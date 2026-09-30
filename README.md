@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"A common regret in life is wishing one had the courage to be ones true self."
+"To cleanly remove the seed from an Avocado, lay a knife firmly across it, and twist."
 ```
 
 ### Background 💪
