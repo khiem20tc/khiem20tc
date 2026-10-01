@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"The higher up you are in a company, the more likely it is that your boss is a psychopath."
+"Never buy cheap cling film."
 ```
 
 ### Background 💪
