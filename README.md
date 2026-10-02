@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Only those who attempt the impossible can achieve the absurd."
+"When you're looking up at birds flying overhead, keep your mouth closed."
 ```
 
 ### Background 💪
