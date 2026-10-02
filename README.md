@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Vinegar is a powerful cleaning agent."
+"Only those who attempt the impossible can achieve the absurd."
 ```
 
 ### Background 💪
