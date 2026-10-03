@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"If you think nobody cares if you're alive, try missing a few payments."
+"Step 1. Give a shit. Step 2. Don't be a dick. Step 3. Know when to let go."
 ```
 
 ### Background 💪
