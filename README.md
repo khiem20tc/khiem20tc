@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"The quieter you become, the more you can hear."
+"If you can't do anything about it, there's no point in worrying about it."
 ```
 
 ### Background 💪
