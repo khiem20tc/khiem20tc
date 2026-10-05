@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"The hardest things to say are usually the most important."
+"Everyone has their down days. Don't take it out on innocent bystanders."
 ```
 
 ### Background 💪
