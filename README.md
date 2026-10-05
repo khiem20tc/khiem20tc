@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"If you can't do anything about it, there's no point in worrying about it."
+"The hardest things to say are usually the most important."
 ```
 
 ### Background 💪
