@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"If you don't like the opinion you've been given, get another one."
+"If you need cheering up, try searching online for photos of kittens."
 ```
 
 ### Background 💪
