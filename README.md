@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Do not check work email on your days off."
+"If you don't like the opinion you've been given, get another one."
 ```
 
 ### Background 💪
