@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"A nod is as good as a wink to a blind horse."
+"Good things come to those who wait."
 ```
 
 ### Background 💪
