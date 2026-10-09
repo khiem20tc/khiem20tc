@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"The quieter you become, the more you can hear."
+"When the cistern is filling, the seat is probably still warm."
 ```
 
 ### Background 💪
