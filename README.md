@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Don't put off breaking up with someone when you know you want to. Prolonging the situation only makes it worse."
+"Pedantry is fine, unless you're on the receiving end. And not a pedant."
 ```
 
 ### Background 💪
