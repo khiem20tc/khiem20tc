@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Pedantry is fine, unless you're on the receiving end. And not a pedant."
+"Don't always believe what you think."
 ```
 
 ### Background 💪
