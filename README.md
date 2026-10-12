@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Look people in the eye."
+"Always get two ciders."
 ```
 
 ### Background 💪
