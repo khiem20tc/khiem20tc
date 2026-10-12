@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Always get two ciders."
+"Everything matters, but nothing matters that much."
 ```
 
 ### Background 💪
