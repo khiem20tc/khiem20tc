@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Only those who attempt the impossible can achieve the absurd."
+"Smile and the world smiles with you. Frown and you're on your own."
 ```
 
 ### Background 💪
