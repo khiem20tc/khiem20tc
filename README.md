@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Smile and the world smiles with you. Frown and you're on your own."
+"Today, do not use the words "Kind of", "Sort of" or "Maybe". It either is or it isn't."
 ```
 
 ### Background 💪
