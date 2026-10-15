@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Respect your elders."
+"Don't let the bastards grind you down."
 ```
 
 ### Background 💪
