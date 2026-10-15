@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Don't let the bastards grind you down."
+"Work is never as important as you think it is."
 ```
 
 ### Background 💪
