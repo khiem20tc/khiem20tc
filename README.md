@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Don't waste food."
+"Respect your elders."
 ```
 
 ### Background 💪
