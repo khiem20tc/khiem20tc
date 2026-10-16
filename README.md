@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"If you don't ask, you don't get."
+"Take time once in a while to look up at the stars for at least 5 minutes, in order to comprehend your cosmic significance."
 ```
 
 ### Background 💪
