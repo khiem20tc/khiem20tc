@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Work is never as important as you think it is."
+"If you don't ask, you don't get."
 ```
 
 ### Background 💪
