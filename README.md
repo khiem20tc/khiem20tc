@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Don't drink bleach."
+"Don't always believe what you think."
 ```
 
 ### Background 💪
