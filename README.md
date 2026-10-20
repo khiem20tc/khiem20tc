@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Don't take it personally."
+"It always seems impossible, until it's done."
 ```
 
 ### Background 💪
