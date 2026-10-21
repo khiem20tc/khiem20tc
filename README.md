@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"If you don't ask, you don't get."
+"Sometimes it's best to ignore other people's advice."
 ```
 
 ### Background 💪
