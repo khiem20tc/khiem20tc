@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"It always seems impossible, until it's done."
+"If you don't ask, you don't get."
 ```
 
 ### Background 💪
