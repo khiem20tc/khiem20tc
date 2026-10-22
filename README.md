@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Don't be afraid to ask questions."
+"Once in a while, eat some sweets you used to enjoy when you were younger."
 ```
 
 ### Background 💪
