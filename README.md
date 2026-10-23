@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Happiness is a journey, not a destination."
+"Brush your teeth the moment you get up."
 ```
 
 ### Background 💪
