@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Vinegar is a powerful cleaning agent."
+"Things are just things. Don't get too attached to them."
 ```
 
 ### Background 💪
