@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Things are just things. Don't get too attached to them."
+"A long walk alone with some time to think, can work wonders."
 ```
 
 ### Background 💪
