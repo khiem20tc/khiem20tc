@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Never let your Mother cut your hair."
+"Drink a glass of water before meals."
 ```
 
 ### Background 💪
