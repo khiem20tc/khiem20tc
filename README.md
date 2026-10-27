@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Try going commando to an important meeting, NB: don't wear a skirt."
+"If you find yourself distressed about something, ask yourself if it will still matter tomorrow or next week or next month."
 ```
 
 ### Background 💪
