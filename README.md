@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"A nod is as good as a wink to a blind horse."
+"If you have grandparents or parents - Talk to them more. Ask them about their life experiences."
 ```
 
 ### Background 💪
