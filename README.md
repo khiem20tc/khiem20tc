@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Make choices and dont look back."
+"Work is never as important as you think it is."
 ```
 
 ### Background 💪
