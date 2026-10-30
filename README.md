@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Learn from your mistakes."
+"Make choices and dont look back."
 ```
 
 ### Background 💪
