@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Work is never as important as you think it is."
+"The sun always shines above the clouds."
 ```
 
 ### Background 💪
