@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"YOLO"
+"Don't ever name files or folders using the word "Final"."
 ```
 
 ### Background 💪
