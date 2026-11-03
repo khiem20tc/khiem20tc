@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Don't ever name files or folders using the word "Final"."
+"Try to pay at least one person a compliment every day."
 ```
 
 ### Background 💪
