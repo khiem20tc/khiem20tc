@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Try to pay at least one person a compliment every day."
+"When you look around and don't see anyone you respect, its time to leave."
 ```
 
 ### Background 💪
