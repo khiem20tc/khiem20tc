@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Life is short enough, don't race to the finish."
+"Once in a while, eat some sweets you used to enjoy when you were younger."
 ```
 
 ### Background 💪
