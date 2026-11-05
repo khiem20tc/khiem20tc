@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Brush your teeth the moment you get up."
+"If you don't ask, you don't get."
 ```
 
 ### Background 💪
