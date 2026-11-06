@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"It's always the quiet ones."
+"When you're looking up at birds flying overhead, keep your mouth closed."
 ```
 
 ### Background 💪
