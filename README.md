@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"No "brand" is your friend."
+"If you don't like the opinion you've been given, get another one."
 ```
 
 ### Background 💪
