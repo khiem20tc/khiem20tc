@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"You're not as fat as you think you are."
+"Exercise in the rain can really make you feel alive."
 ```
 
 ### Background 💪
