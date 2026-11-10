@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"If you don't like the opinion you've been given, get another one."
+"You're not as fat as you think you are."
 ```
 
 ### Background 💪
