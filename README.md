@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Don't eat anything your grandparents wouldn't recognise as food."
+"To improve productivity, always have a shittier task to put off."
 ```
 
 ### Background 💪
