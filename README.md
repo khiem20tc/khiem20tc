@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"To improve productivity, always have a shittier task to put off."
+"Don't try and bump start a motorcycle on an icy road."
 ```
 
 ### Background 💪
