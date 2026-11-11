@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Share positive energy."
+"Don't eat anything your grandparents wouldn't recognise as food."
 ```
 
 ### Background 💪
