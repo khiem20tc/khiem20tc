@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Accept advice."
+"Try using an old idea."
 ```
 
 ### Background 💪
