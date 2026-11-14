@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Try using an old idea."
+"Some of life's best lessons are learnt at the worst times."
 ```
 
 ### Background 💪
