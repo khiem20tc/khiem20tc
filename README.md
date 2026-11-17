@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Don't drink bleach."
+"Give up your seat for someone who needs it."
 ```
 
 ### Background 💪
