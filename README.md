@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Give up your seat for someone who needs it."
+"If you've nothing nice to say, say nothing."
 ```
 
 ### Background 💪
