@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"If you're feeling tired or anxious, a pint of water will almost always make you feel better."
+"Most things look better when you put them in a circle."
 ```
 
 ### Background 💪
