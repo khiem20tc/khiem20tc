@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Everybody makes mistakes."
+"Don't judge a book by its cover, unless it has a synopsis on the back."
 ```
 
 ### Background 💪
