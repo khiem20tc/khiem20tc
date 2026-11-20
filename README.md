@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Smile and the world smiles with you. Frown and you're on your own."
+"The most delicious cocktails often have the highest alcohol content. Always pace yourself to preserve your dignity."
 ```
 
 ### Background 💪
