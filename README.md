@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Always double check you actually attached the file to the email."
+"Never cut your own fringe."
 ```
 
 ### Background 💪
