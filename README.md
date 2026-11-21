@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Never cut your own fringe."
+"It's unlucky to be superstitious."
 ```
 
 ### Background 💪
