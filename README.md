@@ -9,7 +9,7 @@ aka **@kevinbkdev**
 ### 💭 Random Quote of the Day
 
 ```
-"Once in a while, eat some sweets you used to enjoy when you were younger."
+"Most things done in secrecy are better left undone."
 ```
 
 ### Background 💪
